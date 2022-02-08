@@ -2,9 +2,7 @@
     display: flex;
     justify-content: space-evenly;
     padding: 1% 5% 0% 5%;
-    width: 100%;
-
-    
+    width: 100%;    
 }
 
 .services__content__image > img{

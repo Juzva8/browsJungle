@@ -158,5 +158,7 @@
 
             }
 
-
+            #Services_img__body {
+             display:none;
+          }
   }
