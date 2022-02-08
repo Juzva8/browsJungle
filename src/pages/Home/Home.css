@@ -136,20 +136,16 @@
 
         body {
           box-sizing: content-box;
-          width: 100%;
           justify-content: center!important;
           align-items: center;
           }
 
           .Home{
         background-color: #Fafafa;
-        width:100%;
         scroll-behavior: smooth;
         justify-content: center;
         }
 
-
-        
         .Home__Banner{
           display: none;
           }  

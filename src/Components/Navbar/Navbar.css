@@ -128,7 +128,7 @@ body {
   left: -25px;
 }
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
   #navbarSupportedContent ul li a {
     padding: 12px 30px;
   }
@@ -165,11 +165,16 @@ body {
     left: -25px;
   }
   
-}
+} */
 
 
 
 @media (max-width: 500px){
+
+
+  body{
+    font-family: 'Lato', sans-serif;
+  }
   .hori-selector .left, .hori-selector .right {
     right: 0px;
 }
