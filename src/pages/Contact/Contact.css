@@ -1,0 +1,16 @@
+
+  .contact{
+    background-color: #Fafafa;
+    scroll-behavior: smooth;
+    padding: 5%;
+    }
+  
+  @media (max-width:500px){
+    .contact{
+      background-color: #fafafa;
+      margin-top:10%;
+      padding:10px;
+      align-items: center;
+    }
+    
+  }

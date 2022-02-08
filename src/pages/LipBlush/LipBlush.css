@@ -1,0 +1,394 @@
+.LipBlush__row{
+  margin: 2% 10%;
+  justify-content: space-around;
+  }
+
+  .LipBlush__row__2{
+    margin: 2% 10%;
+    justify-content: space-around;
+
+
+  }
+
+  #LipBlush__R1__col1{
+      text-align: center;
+      align-items: center;
+    }
+
+    .LipBlush__h1{
+      margin: 1% 5% 1% 5% ;
+      font-weight: bold;
+      color: #619c1c;
+      text-align: center;
+      font-size: 40px;
+      letter-spacing: .1em;
+      font-family: 'Lato', sans-serif;
+      }
+
+.LipBlush__h2{
+  margin: 1% 5% 1% 5% ;
+  padding-bottom: 20px;
+  color: #619c1c;
+  text-align: left;
+  font-size: 30px;
+  letter-spacing: .1em;
+  font-family: 'Lato', sans-serif;
+}
+  .LipBlush__h2__2{
+  padding-bottom: 20px;
+  color: #619c1c;
+  text-align: left;
+  font-size: 30px;
+  letter-spacing: .1em;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+.LipBlush__h3{
+  margin: 0px 50px;
+  font-weight: bold;
+  color: #619c1c;
+  text-align: left;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: .1em;
+  font-family: 'Lato', sans-serif;
+}
+.LipBlush__h4{
+  margin: 1% 5% 1% 5% ;
+  padding-bottom: 20px;
+  color: #619c1c;
+  text-align: left;
+  font-size: 20px;
+  letter-spacing: .1em;
+  font-family: 'Lato', sans-serif;
+}
+
+.LipBlush__h5{
+    color: #619c1c;
+    font-size: 20px;
+    padding-bottom: 5%;
+  }
+
+.LipBlush__h5__2{
+    color: #619c1c;
+    font-size: 20px;
+    padding-bottom: 1%;
+}
+
+
+.LipBlush__p{
+  margin: 0% 5% 1% 5% ;
+    font-size: 17px;
+    letter-spacing: .1em;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+  }
+
+  .LipBlush__p__2{
+    max-width: 100%;
+    height: auto;
+    font-size: 15px;
+    text-align: left;
+      }
+
+      #bolding{
+          font-weight: bolder;
+      }
+
+  .LipBlush__p__3{
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    letter-spacing: .1em;
+    border-radius: 5px;
+    -webkit-transition: .3s ease-in-out;
+    transition: 1s ease-in-out;
+}
+
+#LipBlush_img__body {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    -webkit-transition: .3s ease-in-out;
+    transition: 1s ease-in-out;
+}
+
+#LipBlush_img__body:hover {
+  max-width: 102%;
+  height: auto;
+  -webkit-transition: .3s ease-in-out;
+  transition: 1s ease-in-out;
+}
+
+#LipBlush_img__body__2{
+max-width: 80%;
+height: auto;
+border-radius: 5px;
+-webkit-transition: .3s ease-in-out;
+transition: 1s ease-in-out;
+}
+
+#LipBlush_img__body__2:hover {
+max-width: 82%;
+height: auto;
+-webkit-transition: .3s ease-in-out;
+transition: 1s ease-in-out;
+}
+
+#LipBlush__row1__button{
+    margin: 60px 60px;
+    background-color: #619c1c;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 60px;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-transition: .3s ease-in-out;
+    transition: .5s ease-in-out;
+     }
+     #LipBlush__row1__button:hover{
+     color: #619c1c;
+     background-color: white;
+      border-radius: 5px;
+      font-size: 20px;
+      font-weight: bold;
+      }
+
+      .LipBlush__h2__1{
+          padding-bottom: 20px;
+          color: #619c1c;
+          text-align: center;
+          font-size: 30px;
+          letter-spacing: .1em;
+          font-family: 'Lato', sans-serif;
+                
+        }
+      
+        .LipBlush__p__4{
+          max-width: 100%;
+          height: auto;
+          font-size: 15px;
+          text-align: center;
+          letter-spacing: .1em;
+        }
+ 
+      #LipBlush__R2__col1{
+          float: right;
+          width: 50%;
+          padding: 5%;
+      }
+
+
+      #LipBlush__R3__col1{
+        float: left;
+        width: 50%;
+        padding: 1%;
+      }
+
+      #LipBlush__R2__col2{
+        float: right;
+        width: 50%;
+        padding: 5%;
+      }
+
+
+      @media (max-width: 500px){
+
+        .LipBlush__h1{
+
+          /* display: none; */
+          margin: 5% 0% 0% 0%;
+          font-weight: bold;
+          color: #619c1c;
+          text-align: center;
+          font-size: 25px;
+          font-family: 'Lato', sans-serif;
+          }
+
+  
+
+          .LipBlush__row{
+            margin: 0% 10%;
+            justify-content: space-around;
+            }
+
+        .LipBlush__h2__2{
+          margin: 1%;
+          font-weight: bold;
+          color: #619c1c;
+          text-align: center;
+          font-size: 20px;
+          font-family: 'Lato', sans-serif;
+      }
+      .LipBlush__h2{
+        margin: 3% 2% 0% 2%;
+        font-weight: bold;
+        color: #619c1c;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Lato', sans-serif;
+      }
+
+      .LipBlush__h3{
+        margin: 0% 0%;
+        font-weight: bold;
+        color: #619c1c;
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+      }
+
+
+      .LipBlush__h4{
+        margin: 0% 5% ;
+        padding-bottom: 10px;
+        color: #619c1c;
+        text-align: center;
+        font-size: 20px;
+        letter-spacing: .1em;
+        font-family: 'Lato', sans-serif;
+      }
+
+
+      .LipBlush__p{
+            margin: 0% 0% 10% 0%;
+            font-size:15px;
+            letter-spacing: .1em;
+            font-family: 'Lato', sans-serif;
+            text-align: left;
+        }
+    
+        .LipBlush__p__2{
+          margin: 0px;
+          font-size:15px;
+          letter-spacing: .1em;
+          font-family: 'Lato', sans-serif;
+          text-align: left;
+            }
+
+            .LipBlush__p__3{
+              margin: 0px 10px;
+              font-size:15px;
+              letter-spacing: .1em;
+              font-family: 'Lato', sans-serif;
+              text-align: left;
+          }
+
+          .LipBlush__h2__1{
+            margin-bottom: 5%;
+            padding-bottom: 0px;
+            color: #619c1c;
+            text-align: center;
+            font-size: 15px;
+            letter-spacing: .1em;
+            font-family: 'Lato', sans-serif;
+                  
+          }
+
+
+
+               #LipBlush_img__body__2{
+                 margin-top: 5%;
+            max-width: 98%;
+            height: auto;
+            border-radius: 5px;
+            -webkit-transition: .3s ease-in-out;
+            transition: 1s ease-in-out;
+          }
+          
+          #LipBlush_img__body__2:hover {
+            max-width: 100%;
+            height: auto;
+            -webkit-transition: .3s ease-in-out;
+            transition: 1s ease-in-out;
+          }
+          #LipBlush_img__body{
+            margin-top: 5%;
+            max-width: 98%;
+            height: auto;
+            border-radius: 5px;
+            -webkit-transition: .3s ease-in-out;
+            transition: 1s ease-in-out;
+          }
+
+          #LipBlush__R2__col1{
+            float: center;
+            width: 100%;
+            padding: 1%;
+        }
+
+
+        #LipBlush__R3__col1{
+          float: center;
+          width: 100%;
+          padding: 1%;
+        }
+  
+        #LipBlush__R2__col2{
+          float: center;
+          width: 100%;
+          padding: 1%;
+        }
+
+        #LipBlush__row1__button{
+          max-width:90%;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 10%;
+    padding: 10px;
+    font-size: 15px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #619c1c;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    -webkit-transition: .3s ease-in-out;
+    transition: .5s ease-in-out;
+           }
+           #LipBlush__row1__button:hover{
+            max-width:90%;
+            font-size: 15px;
+            border-radius: 5px;
+            margin: 10%;
+            padding: 10px;
+            font-size: 15px;
+            align-items: center;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #619c1c;
+            color: white;
+            text-align: center;
+            font-weight: bold;
+            -webkit-transition: .3s ease-in-out;
+            transition: .5s ease-in-out;
+            }
+
+            .LipBlush__row__2{
+              margin: 0% 5% !important;
+              justify-content: space-around;
+              }
+
+      
+
+            .LipBlush__h5{
+              color: #619c1c;
+              font-size: 20px;
+              padding-bottom: 1%;
+              padding-top: 5%;
+            }
+          
+          .LipBlush__h5__2{
+              color: #619c1c;
+              font-size: 20px;
+              padding-bottom: 1%;
+              padding-top: 5%;
+          }
+    
+        
+      }

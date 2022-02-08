@@ -1,0 +1,53 @@
+.Gallery{
+    background-color: #Fafafa;
+    scroll-behavior: smooth;
+    }
+.Gallery__Banner{
+    min-height: 10vh;
+}
+
+.Gallery__row__2{
+    justify-content: space-around;
+    }
+  
+    .Gallery__h1{
+      margin-top: 5%;
+      margin-bottom: 3%;
+      color: #619c1c;
+      text-align: center !important;
+      font-size: 40px;
+      font-weight: bold;
+      letter-spacing: .1em;
+      font-family: 'Lato', sans-serif;
+    }
+
+
+    @media (max-width: 500px){
+
+        .Gallery__Banner{
+            min-height: 1vh;
+        
+        }
+        .Gallery__h1{
+            margin-top: 5%;
+            margin-bottom: 0%;
+            color: #619c1c;
+            text-align: center !important;
+            font-size: 25px;
+            font-weight: bold;
+            letter-spacing: .1em;
+            font-family: 'Lato', sans-serif;
+          }
+
+
+          element.style {
+        }
+
+        .Slider {
+            height: 75vh;
+            width: 100vw;
+            margin-bottom: 0px;
+        }
+
+
+    }
