@@ -63,4 +63,10 @@ a:hover{
     flex-wrap: nowrap;
     align-content: flex-end;
   }
+
+  
+.navbar-logo {
+  display: none;
+}
+
 }
