@@ -101,13 +101,10 @@
   .footer-dark .item.social > a:hover {
   box-shadow: 0 0 15px #619c1c;
   color: #619c1c;
-
   }
 
   .footer-dark .item.social {
     color: 0 0 15px #619c1c;
-    
-
     }
 
   ul li {
@@ -149,6 +146,4 @@
     padding: 5px;
     transition: .5s;
   }
-
-
   }
