@@ -17,7 +17,7 @@
 .services__content__image img:nth-child(1){
 position: absolute;
 opacity: 0;
-    transition: .75s ease;
+transition: .75s ease;
 }
 
 .services__content__image img:nth-child(1):hover {
@@ -44,11 +44,26 @@ opacity: 0;
         height:40px;
     }
     .services__content__image img:nth-child(1) {
-        background-color: #202020;
-        border-radius: 10px;
-        align-items: center;
-        opacity: 0;
-        border-bottom: none;
+    background-color: #202020;
+    border-radius: 10px;
+    align-items: center;
+    opacity: 0;
+    border-bottom: none;
+    }
+
+    .services__content__image img:nth-child(1){
+    position: absolute;
+    opacity: 1;
+    transition: .75s ease;
+    }
+        
+    .services__content__image img:nth-child(1):hover {
+    background-color: #202020;
+    border-radius: 10px;
+    align-items: center;
+    border-bottom: none;
+    opacity: 0;
+    transition: .75s ease;
     }
     
   } 

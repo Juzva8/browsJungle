@@ -15,7 +15,7 @@
   display: inline-block;
   color: rgba(255, 255, 255, 0.829);
   margin: 20px;
-  
+  transition: .5s;
 }
 
 .fa-home:before {
@@ -36,15 +36,18 @@
 
 .navbar-dark .navbar-nav .nav-link:hover {
   color: #619c1c;
+  transition: .5s;
+  opacity:0.8;
   text-decoration: none;
+  box-shadow: #619c1c;
   
 }
 a:hover{
   text-decoration: none;
+  box-shadow: #619c1c;
 }
 
 .navbar-expand-xl .navbar-collapse {
-  display: flex;
   flex-direction: column-reverse;
   flex-wrap: wrap;
   align-content: flex-end;
@@ -55,11 +58,8 @@ a:hover{
 @media (max-width: 500px){
   
     .navbar-expand-xl .navbar-collapse {
-    display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
     align-content: flex-end;
   }
-  
-
 }

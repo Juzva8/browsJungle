@@ -13,8 +13,8 @@
     }
     
     .Home__Banner{
-    min-height: 60vh;
-    background-image: url('../../Assets/Background/Two_Eyebrows_Black.png');
+    min-height: 80vh;
+    background-image: url('../../Assets/Background/Eyebrows_Black.png');
     background-size: cover;
     background-position: center;
     -webkit-background-size: cover;
