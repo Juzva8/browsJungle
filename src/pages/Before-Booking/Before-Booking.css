@@ -183,12 +183,12 @@
     }
 
     .btn{
-      max-width:90%;
+      max-width: 90%;
       font-size: 15px;
       border-radius: 5px;
       margin: 10px;
       padding: 10px;
-      font-size: 15px;
+      font-size: 12px;
       align-items: center;
       display: block;
       margin-left: auto;
@@ -196,7 +196,7 @@
       background-color: #619c1c;
       color: white;
       text-align: center;
-      font-weight: bold;
+      font-weight: lighter;
       -webkit-transition: .3s ease-in-out;
       transition: .5s ease-in-out;
   }

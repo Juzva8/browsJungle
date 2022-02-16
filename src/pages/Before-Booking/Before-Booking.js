@@ -21,7 +21,7 @@ const BeforeBooking = () => {
           Please send it using Zelle at browsjungle@gmail.Com If payment is not received within 1-hour booking will be canceled.
           <br />
           <br />
-          Aproval is required prior to booking. All clients must provide the following information prior to booking their service:
+          Approval is required prior to booking. All clients must provide the following information prior to booking their service:
           Full name Clear photo of the whole face (no filters) ‍Please text the required info at (747) 224-7451‬ or DM on IG: @browsjungle
           <br />
           <br />
