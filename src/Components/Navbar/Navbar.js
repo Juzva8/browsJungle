@@ -21,8 +21,8 @@ const NavBar = () => {
     <Link to="/about">
     <ReactBootStrap.Nav.Link href="/about">  <i className="far fa-address-book"></i>About</ReactBootStrap.Nav.Link>
     </Link>
-    <Link to="/services">
-    <ReactBootStrap.Nav.Link href="/services"> <i className="far fa-clone"></i>Services</ReactBootStrap.Nav.Link>
+    <Link to="/service">
+    <ReactBootStrap.Nav.Link href="/service"> <i className="far fa-clone"></i>Services</ReactBootStrap.Nav.Link>
     </Link>
     <Link to="/before-booking">
     <ReactBootStrap.Nav.Link href="/before-booking"><i className="far fa-clock"></i>Before-Booking</ReactBootStrap.Nav.Link>
