@@ -47,13 +47,13 @@ transition: .75s ease;
     background-color: #202020;
     border-radius: 10px;
     align-items: center;
-    opacity: 0;
+    opacity: 1;
     border-bottom: none;
     }
 
     .services__content__image img:nth-child(1){
     position: absolute;
-    opacity: 1;
+    opacity: 0;
     transition: .75s ease;
     }
         
