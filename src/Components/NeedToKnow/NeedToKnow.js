@@ -30,7 +30,7 @@ function NeedToKnow() {
         </h1>
         <div className="NeedToKnow-text">The work from your initial procedure will lose ~40%-60% of the color & intensity as the skin heals.
         </div> 
-        <br></br>
+        <br></br> <br></br>
         <a href="https://drive.google.com/file/d/1PCWapELgGw6y9ZW7CJ5Egq-5OXbtRuGV/view" target="_blank" className="NeedToKnow__button" tabIndex="0">Learn More
         </a>
         </div>
@@ -56,7 +56,7 @@ function NeedToKnow() {
         </h1>
         <div className="NeedToKnow-text">Covid-19 vaccines. We can't tattoo between the 1st & the 2nd dose of the vaccine. You need to wait 14 days after the 2nd shot.
         </div> 
-                             
+        <br></br>             
         <a href="https://drive.google.com/file/d/1KWMuoN9QNdrOjV9QYik_ZSYMZHjWhuha/view" className="NeedToKnow__button" tabIndex="0">Learn More
         </a>
         </div>
@@ -69,7 +69,7 @@ function NeedToKnow() {
         </h1>
         <div className="NeedToKnow-text">Be prepared for the color, & intensity to be significantly sharper & darker immediately after the procedure.      
         </div> 
-        <br></br>
+        <br></br> <br></br>
         <a href="https://drive.google.com/file/d/1PCWapELgGw6y9ZW7CJ5Egq-5OXbtRuGV/view" target="_blank" className="NeedToKnow__button" >Learn More
         </a>
         </div>
