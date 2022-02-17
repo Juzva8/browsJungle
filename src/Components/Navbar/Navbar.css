@@ -4,7 +4,12 @@
   }
 
 .navbar-logo {
-  margin: 0px 40px;
+  object-fit: contain;
+    display: flex;
+    justify-content: space-evenly;
+    height:90px;
+    background-color: transparent;
+    padding-right: 30px;  
 }
 
 .navbar-dark .navbar-nav .nav-link {
