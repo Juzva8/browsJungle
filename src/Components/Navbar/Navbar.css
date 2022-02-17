@@ -67,8 +67,8 @@ a:hover{
 
   .navbar-logo {
   margin: 0px;
-  display: flex;
-  object-fit: fit-content;
+  display: flex-start;
+  justify-content: space-between;
   padding-top: 0px;
   height: 55px;
   background-color: transparent;
