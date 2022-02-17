@@ -6,7 +6,7 @@
 .navbar-logo {
   object-fit: fill;
   display: flex;
-  padding-top:10px;
+  padding-top: 30px;
   height: 95px;
   background-color: transparent;
   margin: 0px 20px;
@@ -103,25 +103,6 @@ a:hover{
     justify-content: space-between;
     
   }
-  .navbar {
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-
-}
-
-  /* .navbar-logo{
-  position: relative;
-  margin: 0px;
-  padding-top: 10%;
-  height: 95px;
-  text-align: center;
-  background-color: transparent;
-  font-family: 'Lato', sans-serif;
-
-  } */
 
   .navbar-dark .navbar-brand {
     color: rgba(255, 255, 255, 0.829);
