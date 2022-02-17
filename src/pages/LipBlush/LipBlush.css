@@ -87,7 +87,7 @@
   }
 
   .LipBlush__p__2{
-    max-width: 100%;
+    max-width: 98%;
     height: auto;
     font-size: 15px;
     text-align: left;
@@ -98,7 +98,7 @@
       }
 
   .LipBlush__p__3{
-    max-width: 100%;
+    max-width: 98%;
     height: auto;
     text-align: left;
     letter-spacing: .1em;
@@ -108,7 +108,7 @@
 }
 
 #LipBlush_img__body {
-    max-width: 100%;
+    max-width: 98%;
     height: auto;
     border-radius: 5px;
     -webkit-transition: .3s ease-in-out;
@@ -116,7 +116,7 @@
 }
 
 #LipBlush_img__body:hover {
-  max-width: 102%;
+  max-width: 100%;
   height: auto;
   -webkit-transition: .3s ease-in-out;
   transition: 1s ease-in-out;
@@ -167,7 +167,7 @@ transition: 1s ease-in-out;
         }
       
         .LipBlush__p__4{
-          max-width: 100%;
+          max-width: 98%;
           height: auto;
           font-size: 15px;
           text-align: center;
@@ -300,7 +300,7 @@ transition: 1s ease-in-out;
           }
           
           #LipBlush_img__body__2:hover {
-            max-width: 100%;
+            max-width: 98%;
             height: auto;
             -webkit-transition: .3s ease-in-out;
             transition: 1s ease-in-out;
@@ -316,20 +316,20 @@ transition: 1s ease-in-out;
 
           #LipBlush__R2__col1{
             float: center;
-            width: 100%;
+            width: 98%;
             padding: 1%;
         }
 
 
         #LipBlush__R3__col1{
           float: center;
-          width: 100%;
+          width: 98%;
           padding: 1%;
         }
   
         #LipBlush__R2__col2{
           float: center;
-          width: 100%;
+          width: 98%;
           padding: 1%;
         }
 
