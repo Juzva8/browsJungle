@@ -67,24 +67,23 @@ a:hover{
     
   }
 
-  .navbar-logo {
+  .navbar-logo{
     /* display:none; */
+
+
   margin: 0px;
-  justify-content: space-between;
   padding-top: 10px;
-  height: 80px;
-  float: r;
+  height: 95px;
   background-color: transparent;
+
   }
   .navbar {
     position: relative;
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
     padding: 0.5rem 1rem;
     align-content: center;
-    flex-direction: row-reverse;
     justify-content: space-between;
 }
 }
