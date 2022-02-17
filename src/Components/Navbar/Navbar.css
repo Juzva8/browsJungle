@@ -60,10 +60,10 @@ a:hover{
 @media (max-width: 950px){
   
   .navbar-expand-xl .navbar-collapse {
-    /* flex-direction: row; */
-    /* flex-wrap: nowrap; */
-    /* align-content: space-between; */
-    /* justify-content: space-between; */
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    justify-content: space-between;
     
   }
   .navbar {
@@ -96,13 +96,13 @@ a:hover{
 
 @media (max-width: 500px){
   
-    .navbar-expand-xl .navbar-collapse {
-    /* flex-direction: row; */
-    /* flex-wrap: nowrap; */
-    /* align-content: space-between; */
-    /* justify-content: space-between; */
+    /* .navbar-expand-xl .navbar-collapse {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    justify-content: space-between;
     
-  }
+  } */
   .navbar {
     position: relative;
     display: flex;
@@ -115,13 +115,13 @@ a:hover{
   .navbar-logo{
     /* display:none; */
 
-  /* position: relative;
+  position: relative;
   margin: 0px;
   padding-top: 10%;
   height: 95px;
   text-align: center;
   background-color: transparent;
-  font-family: 'Lato', sans-serif; */
+  font-family: 'Lato', sans-serif;
 
   }
 
