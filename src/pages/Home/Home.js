@@ -19,7 +19,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
             <span className="emphasis-1">Let's Enhance And Highlight Your Natural Beauty!</span> 
           </h1>
         </div>
-        <ServicesComponent />
+        {/* <ServicesComponent /> */}
         <Row className="Home__row" >
             <Col>
           <h3 className="Home__h3">
@@ -70,14 +70,14 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
         What You Need To Know Before Booking
           </h2>
         </Row>
-        <Row className="Home__row__3" >
+        {/* <Row className="Home__row__3" >
         <Col id="Home__R2__col2" xl="5">
         <InlineWidget url="https://calendly.com/browsjungle/5hours?month=2022-01" />
           </Col>
             <Col id="mobile_fix" xl="10">
           < NeedToKnow />
           </Col>
-          </Row>
+          </Row> */}
           <Row className="Home__row" >
             <Col>
           <h3 className="Home__h3">
