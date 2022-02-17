@@ -19,7 +19,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
             <span className="emphasis-1">Let's Enhance And Highlight Your Natural Beauty!</span> 
           </h1>
         </div>
-        {/* <ServicesComponent /> */}
+        <ServicesComponent />
         <Row className="Home__row" >
             <Col>
           <h3 className="Home__h3">
