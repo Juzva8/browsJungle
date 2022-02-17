@@ -56,6 +56,48 @@ a:hover{
 }
 
 
+@media (max-width: 950px){
+  
+  .navbar-expand-xl .navbar-collapse {
+    /* flex-direction: row; */
+    /* flex-wrap: nowrap; */
+    /* align-content: space-between; */
+    /* justify-content: space-between; */
+    
+  }
+  .navbar {
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+  .navbar-logo{
+    /* display:none; */
+    position: relative;  
+    flex-wrap: nowrap;
+  z-index:100;
+  margin: 0px;
+  padding-top: 10px;
+  height: 95px;
+  background-color: transparent;
+  justify-content: space-around;
+  align-content: flex-start;
+  flex-wrap: nowrap;
+  align-items: stretch;
+}
+  }
+  
+
+
+
+
+}
+
+
+
 @media (max-width: 500px){
   
     .navbar-expand-xl .navbar-collapse {
