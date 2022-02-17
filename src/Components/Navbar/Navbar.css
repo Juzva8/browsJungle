@@ -80,7 +80,7 @@ a:hover{
   .navbar {
     position: relative;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column-reverse;
     align-content: center;
     flex-wrap: wrap;
     align-items: center;
