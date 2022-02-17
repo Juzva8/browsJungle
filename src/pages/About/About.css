@@ -55,8 +55,8 @@
       -webkit-transition: .3s ease-in-out;
       transition: 1s ease-in-out;
   }
-
-    #About__p__1{
+ 
+  #About__p__1{
     padding-right: 10px;
     }
 
@@ -104,7 +104,6 @@
 
     .About__h1{
       margin: 10% 0%;
-      font-weight: bold;
       color: #619c1c;
       text-align: center;
       font-size: 25px;
@@ -120,12 +119,12 @@
       font-family: 'Lato', sans-serif;
       text-align: center;
     }
+
+
     #About__R2__col1{
       float: left;
       width: 100%;
       padding: 5%;
-
-
     }
 
     #About__R2__col2{
@@ -181,6 +180,8 @@
           -webkit-transition: .3s ease-in-out;
           transition: .5s ease-in-out;
            }
+
+           
            #About__row1__button:hover{
             max-width:90%;
             font-size: 15px;
