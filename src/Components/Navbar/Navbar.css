@@ -72,9 +72,18 @@ a:hover{
   margin: 0px;
   justify-content: space-between;
   padding-top: 10px;
-  height: 90px;
+  height: 80px;
   background-color: transparent;
   }
+
+  .navbar{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+  }
+
 
 
 
