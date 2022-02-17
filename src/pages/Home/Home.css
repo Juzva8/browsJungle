@@ -182,42 +182,58 @@
         }
 
         #Home__row1__button{
-          margin-top: 10px;
+          max-width:90%;
+          font-size: 15px;
+          border-radius: 5px;
+          margin: 10%;
+          padding: 10px;
+          font-size: 15px;
+          align-items: center;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
           background-color: #619c1c;
           color: white;
-          border-radius: 5px;
-          padding: 5px 30px;
-          font-size: 15px;
-          font-weight: bold;       
+          text-align: center;
+          font-weight: bold;
+          -webkit-transition: .3s ease-in-out;
+          transition: .5s ease-in-out;
            }
     
            #Home__row1__button:hover{
-            align-items:center;
-          margin: 10px;
-          background-color: #619c1c;
-          color: white;
-          border-radius: 5px;
-          padding: 5px 30px;
-          font-size: 15px;
-          font-weight: bold;
+            max-width:90%;
+            font-size: 15px;
+            border-radius: 5px;
+            margin: 10%;
+            padding: 10px;
+            font-size: 15px;
+            align-items: center;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #619c1c;
+            color: white;
+            text-align: center;
+            font-weight: bold;
+            -webkit-transition: .3s ease-in-out;
+            transition: .5s ease-in-out;   
             }
 
             .Home__h2{
+              margin: 5%;
               color: #000;
-              text-align: center !important;
+              text-align: center;
               font-size: 25px;
               font-weight: bold;
               letter-spacing: .1em;
               font-family: 'Lato', sans-serif;
                 }
 
-            .Home__row__3{
-              margin: 5%;
-              max-width: 90%;
+            .Home__row__2{
+            margin: 0%;
             display: flex;
             flex-wrap: wrap;
-            margin: 3% 1% 1% 1%;
-            max-width: 75%;
+            max-width: 100%;
             justify-content: flex-end;
             align-items: center;
 }
