@@ -10,6 +10,7 @@
   height: 95px;
   background-color: transparent;
   margin: 0px 20px;
+  font-family: 'Lato', sans-serif;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -113,14 +114,29 @@ a:hover{
 
   .navbar-logo{
     /* display:none; */
-    position: relative;  
-  z-index:100;
+
+  /* position: relative;
   margin: 0px;
-  padding-top: 10px;
+  padding-top: 10%;
   height: 95px;
+  text-align: center;
   background-color: transparent;
-  
+  font-family: 'Lato', sans-serif; */
 
   }
+
+  .navbar-dark .navbar-brand {
+    color: rgba(255, 255, 255, 0.829);
+    position: relative;
+    margin: 0px;
+    padding-top: 5%;
+    height: 95px;
+    text-align: center;
+    background-color: transparent;
+    font-family: 'Lato', sans-serif;
+}
+
+
+  
   
 }
