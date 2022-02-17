@@ -134,10 +134,8 @@
             margin: 3% 1%;
             max-width: 100%;
             align-items: center;
-}
            }
-
-
+          }
 
            @media (max-width: 500px){
 
@@ -216,35 +214,15 @@
             .Home__row__3{
               margin: 5%;
               max-width: 90%;
-              /* display: flex;
-    flex-wrap: wrap;
-    margin: 3% 1% 1% 1%;
-    max-width: 75%;
-    justify-content: flex-end;
-    align-items: center; */
-}
-#mobile_fix{
-  display: none;
+            display: flex;
+            flex-wrap: wrap;
+            margin: 3% 1% 1% 1%;
+            max-width: 75%;
+            justify-content: flex-end;
+            align-items: center;
 }
 
-.img {
-  display: flex;
-  align-items:center;
-  background-color: #eee;
-  padding: 1rem;
-  overflow-x: scroll;
-}
 
-.images > div {
-  flex: none;
-  max-width: 50%;
-  padding-left: 15px;
-  padding-right: 15px;
-}
 
-.images img {
-  max-width:98%;
-  width: 98%;
-}
          
            }
