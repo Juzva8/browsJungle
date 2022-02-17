@@ -11,7 +11,7 @@ const NavBar = () => {
     return(
         <div className="App">
     <ReactBootStrap.Navbar collapseOnSelect expand="xl" bg="dark" variant="dark">
-  <ReactBootStrap.Navbar.Brand href="/" className="navbar-brand navbar-logo"><img src={Logo} alt='Home' /></ReactBootStrap.Navbar.Brand>
+  <ReactBootStrap.Navbar.Brand href="/" className="navbar-brand navbar-logo">Brows Jungle</ReactBootStrap.Navbar.Brand>
   <ReactBootStrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <ReactBootStrap.Navbar.Collapse id="responsive-navbar-nav">
     <ReactBootStrap.Nav className="mr-auto"> 
