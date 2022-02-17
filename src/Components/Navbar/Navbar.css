@@ -65,10 +65,27 @@ a:hover{
   }
 
   .navbar-logo {
-  margin: 0px;
-  display: flex;
+    /* display:none !important; */
+    margin: 0px;
+
+  justify-content: space-between;
   padding-top: 10px;
-  height: 55px;
+  height: 90px;
   background-color: transparent;
+
   }
+
+  .navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    padding: 0.5rem 1rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    align-content: space-between;
+  }
+
+
 }
