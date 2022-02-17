@@ -127,30 +127,42 @@
            }
 
 
+           @media (max-width: 950px){
+
+
+           .Home__row__3{
+            display: flex;
+            flex-wrap: wrap;
+            margin: 3% 1%;
+            max-width: 80%;
+            align-items: center;
+}
+           }
+
+
+
            @media (max-width: 500px){
 
         body {
           box-sizing: content-box;
           justify-content: center!important;
           align-items: center;
+                 max-width: 100%;
           }
 
-          .Home{
+        .Home{
         background-color: #Fafafa;
         scroll-behavior: smooth;
-        justify-content: center;
+        justify-content: center;    
+ 
         }
 
         .Home__Banner{
           display: none;
           }  
-  
-
-
           .Home__h1{
             display: none;
         }
-
         .Home__row{
           margin: 10% 0%;          
           }
@@ -206,6 +218,13 @@
             .Home__row__3{
               margin: 5%;
               max-width: 90%;
-                }
+              /* display: flex;
+    flex-wrap: wrap;
+    margin: 3% 1% 1% 1%;
+    max-width: 75%;
+    justify-content: flex-end;
+    align-items: center; */
+}
+                
          
            }

@@ -73,7 +73,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
         <Col id="Home__R2__col2" xl="5">
         <InlineWidget url="https://calendly.com/browsjungle/5hours?month=2022-01" />
           </Col>
-            <Col xl="10">
+            <Col id="mobile_fix" xl="10">
           < NeedToKnow />
           </Col>
           </Row>

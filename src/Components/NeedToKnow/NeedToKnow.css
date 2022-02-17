@@ -72,6 +72,14 @@ a.NeedToKnow__button:hover{
      font-weight: bold;
      }
 
+
+     @media (max-width:950px){
+     
+        .NeedToKnow-box {
+        display:none
+        }
+    }
+
 @media (max-width:500px){
      
     .NeedToKnow-box {
