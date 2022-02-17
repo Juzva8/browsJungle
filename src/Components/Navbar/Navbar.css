@@ -64,14 +64,11 @@ a:hover{
     align-content: flex-end;
   }
 
-
   .navbar-logo {
-    display: none;
-  /* margin: 0px;
-  display: flex-start;
-  justify-content: space-between;
-  padding-top: 0px;
+  margin: 0px;
+  display: flex;
+  padding-top: 10px;
   height: 55px;
-  background-color: transparent; */
+  background-color: transparent;
   }
 }
