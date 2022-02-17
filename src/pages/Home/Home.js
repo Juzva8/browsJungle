@@ -4,8 +4,7 @@ import { InlineWidget } from "react-calendly";
 import permanent from '../../Assets/Images/Microblading.png';
 import lips from '../../Assets/Images/Lips.png';
 import combo from '../../Assets/Images/permanent.png';
-// import './Home.css';
-import './Home1.css';
+import './Home.css';
 import ServicesComponent from '../../Components/ServicesComponent/ServicesComponent';
 import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
 
@@ -74,7 +73,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
         <Col id="Home__R2__col2" xl="5">
         <InlineWidget url="https://calendly.com/browsjungle/5hours?month=2022-01" />
           </Col>
-            <Col id="mobile_fix" xl="10">
+            <Col xl="10">
           < NeedToKnow />
           </Col>
           </Row>

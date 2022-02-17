@@ -34,7 +34,7 @@ transition: .75s ease;
     .services__content{
     margin-top: 10%; 
     width: 100%;
-    padding:0px;
+    padding: 10px 0px;
     background-color:#FAFAFA;
     display: flex;
     align-items: center;
