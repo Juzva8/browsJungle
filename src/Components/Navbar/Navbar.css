@@ -68,12 +68,11 @@ a:hover{
   }
 
   .navbar-logo {
-    /* display:none !important; */
-  margin: 0px;
-  align-content: space-between;
+    display:none !important;
+  /* margin: 0px;
   justify-content: space-between;
   padding-top: 10px;
   height: 80px;
-  background-color: transparent;
+  background-color: transparent; */
   }
 }
