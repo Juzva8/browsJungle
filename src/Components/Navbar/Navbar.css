@@ -15,11 +15,13 @@
 }
 .navbar-dark .navbar-brand {
   color: rgba(255, 255, 255, 0.829);
-  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  font-family: 'Parisienne', cursive;
 }
 .navbar-dark:hover .navbar-brand:hover {
   color: #619c1c;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Parisienne', cursive;
+  font-size: 30px;
 }
 
 .navbar-dark .navbar-nav .nav-link {

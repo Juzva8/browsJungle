@@ -153,9 +153,22 @@
  
         }
 
-        .Home__Banner{
+        /* .Home__Banner{
           display: none;
-          }  
+          }   */
+
+    .Home__Banner{
+    min-height: 15vh;
+    background-image: url('../../Assets/Background/Eyebrows_Black.png');
+    background-size: cover;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    }  
+
+
+
           .Home__h1{
             display: none;
         }
