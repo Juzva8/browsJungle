@@ -1,6 +1,6 @@
 
   .About{
-    background-color: #Fafafa;
+    background-color: #fafafa;
     scroll-behavior: smooth;
     }
 
@@ -85,7 +85,7 @@
          }
          #About__row1__button:hover{
          color: #619c1c;
-         background-color: white;
+         background-color: #fafafa;
           border-radius: 5px;
           font-size: 20px;
           font-weight: bold;

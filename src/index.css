@@ -1,7 +1,10 @@
 @import url('https://fonts.google.com/share?selection.family=Lato:wght@100;300');
 @import url('https://fonts.google.com/share?selection.family=Parisienne');
 
-
+body {
+    background-color: #fafafa;
+  }
+  
 
 
 h1{
