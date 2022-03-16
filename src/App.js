@@ -18,9 +18,6 @@ import LipBlush from './pages/LipBlush/LipBlush';
 import PmuBrows from './pages/PmuBrows/PmuBrows';
 
 
-
-
-
 const App = () => {
   return (
         <>
