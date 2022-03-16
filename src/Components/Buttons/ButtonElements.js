@@ -20,7 +20,5 @@ export const Button = styled(Link)`
 
     &:hover {
         transform: translateY(-2px);
-    }
-    
+    } 
 `;
-
