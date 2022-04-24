@@ -21,7 +21,7 @@ const Footer = () => (
                   <ul>
                       <li><a href="mailto:browsjungle@gmail.com" target="_blank">browsjungle@gmail.com</a></li>
                       <li><a href="facetime:17472247451‬" target="_blank">(747) 224-7451‬</a></li>
-                      <li><a href="https://goo.gl/maps/7yrrtxaKQ3K2vevY9" target="_blank">29229-A, Central Ave, Lake Elsinore, CA 92532</a></li>
+                      <li><a href="https://goo.gl/maps/JLBd1nHuRDVJ9r5z9" target="_blank">2795 Cabot Dr, Suite 27<br/> Corona, CA 92883</a></li>
                   </ul>
               </div>
               <div className="col-md-6 item text">
