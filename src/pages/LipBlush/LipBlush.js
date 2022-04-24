@@ -116,7 +116,7 @@ function LipBlush() {
     </Row>
     <Row className="LipBlush__row" >
         <Col id="LipBlush__R1__col1" xl="4">
-         <img id = "LipBlush_img__body" src={blush} alt="Lake Elsinore PMU"/>
+         <img id = "LipBlush_img__body" src={blush} alt="Corona PMU"/>
           </Col>
             <Col>
             <h2 className="LipBlush__h2">
@@ -193,7 +193,7 @@ function LipBlush() {
           </Col>
 
           <Col id="LipBlush__R1__col1" xl="6">
-         <img id = "LipBlush_img__body" src={lips} alt="Lake Elsinore PMU"/>
+         <img id = "LipBlush_img__body" src={lips} alt="Corona PMU"/>
           </Col>
           </Row>
     </div>

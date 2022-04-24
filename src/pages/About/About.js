@@ -11,7 +11,7 @@ const About = () => {
 
         <Row className="About__row" >
         <Col id="About__R1__col1" xl="4">
-         <img id = "About_img__body" src={me} alt="Lake Elsinore PMU"/>
+         <img id = "About_img__body" src={me} alt="Corona PMU"/>
           </Col>
             <Col>
           <h1 className="About__h1">
@@ -22,7 +22,7 @@ const About = () => {
           and my passion for what I do, combined with the desire to be the best, distinguishes me from other artists. I am a perfectionist by nature, 
           and extremely detail oriented, which as a PMU is a huge advantage. I use innovative techniques and superior products to enhance and highlight my client’s natural beauty, 
           for exceptionally gorgeous results. If you are looking for a company that makes your brows and lips satisfaction their top priority, 
-          Brows Jungle, LLC is the place for you! PMU beauty salon located in Lake Elsinore, California! I am looking forward to seeing you soon!
+          Brows Jungle, LLC is the place for you! PMU beauty salon located in Corona, California! I am looking forward to seeing you soon!
           </p>
        
           <Col id="About__R2__col1" xl="6">

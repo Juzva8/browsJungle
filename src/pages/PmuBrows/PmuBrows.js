@@ -103,7 +103,7 @@ function PmuBrows() {
     </Row>
     <Row className="PmuBrows__row" >
         <Col id="PmuBrows__R1__col1" xl="4">
-         <img id = "PmuBrows_img__body" src={pmu} alt="Lake Elsinore PMU"/>
+         <img id = "PmuBrows_img__body" src={pmu} alt="Corona PMU"/>
           </Col>
             <Col>
             <h2 className="PmuBrows__h2">
@@ -182,7 +182,7 @@ function PmuBrows() {
           </Col>
 
           <Col id="PmuBrows__R1__col1" xl="6">
-         <img id = "PmuBrows_img__body__2" src={brows} alt="Lake Elsinore PMU"/>
+         <img id = "PmuBrows_img__body__2" src={brows} alt="Corona PMU"/>
           </Col>
           </Row>
     </div>

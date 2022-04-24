@@ -10,7 +10,7 @@ const BeforeBooking = () => {
     <div className="BeforeBooking">
         <Row className="BeforeBooking__row" >
         <Col id="BeforeBooking__R1__col1" xl="4">
-         <img id = "BeforeBooking_img__body" src={me} alt="Lake Elsinore PMU"/>
+         <img id = "BeforeBooking_img__body" src={me} alt="Corona PMU"/>
           </Col>
             <Col>
           <h1 className="BeforeBooking__h1">
