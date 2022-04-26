@@ -14,7 +14,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
       return (
       <div className="Home">
       <div className="Home__Banner">
-      <h1 className = "Home__h1"> PERMANENT MAKEUP <br/> In Corona <br/>
+      <h1 className = "Home__h1"> PERMANENT MAKEUP <br/> In Dos Lagos <br/>
             <span className="emphasis-1">Let's Enhance And Highlight Your Natural Beauty!</span> 
           </h1>
         </div>
@@ -71,7 +71,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
         </Row>
         <Row className="Home__row__3" >
         <Col id="Home__R2__col2" xl="5">
-        <InlineWidget url="https://calendly.com/browsjungle/5hours?month=2022-01" />
+        <InlineWidget url="https://calendly.com/browsjungle/4-5hours" />
           </Col>
             <Col xl="10">
           < NeedToKnow />

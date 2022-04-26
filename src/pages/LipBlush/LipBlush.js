@@ -37,7 +37,7 @@ function LipBlush() {
           **** Your lips may swell 2 or 3 times the normal lip size. 
           This is NORMAL. When you go home ice your lips and the swelling will go down in 1 to 3 days.
           </p>
-          <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>    
+          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>    
           <button id='LipBlush__row1__button'>
           Book Now</button>
           </a>

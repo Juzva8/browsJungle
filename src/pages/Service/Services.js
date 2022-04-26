@@ -31,7 +31,7 @@ const Services = () => {
           make a final assessment on the direction its going so that I can make any necessary adjustments while the opportunity exists. 
           I value the clients opinion and believe the most satisfying outcomes are achieved through a guided process that ensures the expectations of the client are met.
           </p>
-          <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>    
+          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>    
           <button id='Services__row1__button'>
               Book Now</button>
               </a>
@@ -59,7 +59,7 @@ const Services = () => {
           typically last longer with more retention. Over time, pigment fades about 50% leaving your clients with amazing results. It is important to get proper
           permanent makeup ombré training when performing this procedure.
           </p>
-          <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>    
+          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>    
           <button id='Services__row1__button'>
               Book Now</button>
               </a>
@@ -78,7 +78,7 @@ const Services = () => {
           instead, it leaves more of a lip stain effect that keeps you looking fresh on days when you just don’t want to wear makeup. 
           We have different shades of pigments for different skin tones and preferences. Lip blush is also good for those who have scars and want them covered up. 
           </p>
-          <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>    
+          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>    
           <button id='Services__row1__button'>
               Book Now</button>
               </a>
@@ -108,7 +108,7 @@ const Services = () => {
           combo brows might be a viable alternative. For someone with very sparse brows, the shading can give the brow more body, 
           while the hair-strokes keep it looking natural.
           </p>
-          <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>    
+          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>    
           <button id='Services__row1__button'>
               Book Now</button>
               </a>

@@ -30,7 +30,7 @@ function Pricing() {
           <h2 className="Pricing__h2__price">
         / $425 /
          </h2>
-         <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -46,7 +46,7 @@ function Pricing() {
           <h2 className="Pricing__h2__price">
         / $425 /
          </h2>
-         <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -63,7 +63,7 @@ function Pricing() {
           <h2 className="Pricing__h2__price">
         / $425 /
          </h2>
-         <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -81,7 +81,7 @@ function Pricing() {
           <h2 className="Pricing__h2__price">
         / $425 /
          </h2>
-         <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -104,14 +104,14 @@ function Pricing() {
  Touch Up
   </h2>
   <p className="Pricing__p__1"><b>
-  1 to 3 months after the initial session
-  If you do not come back for your touch up in time, that was given by the artist you will be charged a full price again.
+  4 weeks - 3 months touch up<br/>
+  For existing clients only
   </b>
   </p>
    <h2 className="Pricing__h2__price">
  / $120 /
   </h2>
-  <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>     
+  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
    <button id='Pricing__row1__button'>
        Book Now</button>
        </a>
@@ -122,14 +122,14 @@ function Pricing() {
  Annual Touch Up
   </h2>
   <p className="Pricing__p__1"><b>
-  6-12 months after the touch up session.
-  If you do not come back for your touch up in time, that was given by the artist you will be charged $50 for Biannual Touch Up.
+  6-12 months touch up<br/>
+  For existing clients only
   </b>
   </p>
    <h2 className="Pricing__h2__price">
- / $150 /
+ / $200 /
   </h2>
-  <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>     
+  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
    <button id='Pricing__row1__button'>
        Book Now</button>
        </a>
@@ -140,14 +140,14 @@ function Pricing() {
  Biannual Touch Up
   </h2>
   <p className="Pricing__p__1"><b>
-  Biannual touch up 12-24 months after the touch up session
-  If you do not come back for your touch up in time, that was given by the artist you will be charged a full price again.
+  13-19 months touch up<br/>
+  Anything past 19 months will require a consultation to determine whether a touch-up or a new set would be required. 
   </b>
   </p>
    <h2 className="Pricing__h2__price">
- / $200 /
+ / $250 /
   </h2>
-  <a href='https://calendly.com/browsjungle/5hours?month=2022-02' target='_blank'>     
+  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
    <button id='Pricing__row1__button'>
        Book Now</button>
        </a>

@@ -9,7 +9,7 @@ const Contact = () => {
           <div className="contact__Banner">
           </div>
           
-          <InlineWidget url="https://calendly.com/browsjungle/5hours?month=2021-10&date=2021-10-15" />
+          <InlineWidget url="https://calendly.com/browsjungle/4-5hours" />
         </div>
   )
 }
