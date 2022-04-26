@@ -1,7 +1,7 @@
 import React from 'react';
 import './Navbar.css';
 import * as ReactBootStrap from "react-bootstrap";
-import Logo from '../../Assets/Logo/Two_Eyebrows.png'
+
 import {
     BrowserRouter as Router,
     Link

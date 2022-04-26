@@ -1,13 +1,13 @@
 import React from 'react'
 import './ServicesComponent.css'
-import PmuBrows from '../../Assets/services-logo/PmuBrows.png'
-import gallery from '../../Assets/services-logo/gallery.png'
-import LipBlush from '../../Assets/services-logo/LipBlush.png'
-import pricing from '../../Assets/services-logo/pricing.png'
-import PmuBrows_text from '../../Assets/services-logo-text/BROWS_PMU.png'
-import gallery_text from '../../Assets/services-logo-text/gallery_text-copy.png'
-import Lip_blush_text from '../../Assets/services-logo-text/Lip_blush_text.png'
-import pricing_text from '../../Assets/services-logo-text/pricing_text-copy.png'
+import PmuBrows from '../../Assets/services-logo/PmuBrows.webp'
+import gallery from '../../Assets/services-logo/gallery.webp'
+import LipBlush from '../../Assets/services-logo/LipBlush.webp'
+import pricing from '../../Assets/services-logo/pricing.webp'
+import PmuBrows_text from '../../Assets/services-logo-text/BROWS_PMU.webp'
+import gallery_text from '../../Assets/services-logo-text/gallery_text-copy.webp'
+import Lip_blush_text from '../../Assets/services-logo-text/Lip_blush_text.webp'
+import pricing_text from '../../Assets/services-logo-text/pricing_text-copy.webp'
 
 
 

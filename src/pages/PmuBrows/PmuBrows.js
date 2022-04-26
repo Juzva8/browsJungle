@@ -2,9 +2,9 @@ import React from 'react';
 import { Row, Col } from 'reactstrap';
 import './PmuBrows.css'
 import ServicesComponent from '../../Components/ServicesComponent/ServicesComponent'
-import ombre from '../../Assets/Images/PMU_Ombre.png'
-import pmu from '../../Assets/Images/brows_1.png'
-import brows from '../../Assets/Images/post_care.jpg'
+import ombre from '../../Assets/Images/PMU_Ombre.webp'
+import pmu from '../../Assets/Images/brows_1.webp'
+import brows from '../../Assets/Images/post_care.webp'
 
 function PmuBrows() {
   return (

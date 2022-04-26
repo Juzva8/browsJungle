@@ -2,7 +2,7 @@ import React from 'react'
 import { Row, Col } from 'reactstrap';
 import { Button } from 'reactstrap';
 import './Before-Booking.css'
-import me from '../../Assets/Images/brows_1.png'
+import me from '../../Assets/Images/brows_1.webp'
 
 
 const BeforeBooking = () => {
