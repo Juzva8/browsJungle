@@ -5,7 +5,7 @@
     
     .Home__Banner{
     min-height: 80vh;
-    background-image: url('../../Assets/Background/Eyebrows_Black.webp');
+    background-image: url('../../Assets/Background/Eyebrows_Black.png');
     opacity:0.9;
     background-size: cover;
     background-position: center;
@@ -159,7 +159,7 @@
 
     .Home__Banner{
     min-height: 15vh;
-    background-image: url('../../Assets/Background/Eyebrows_Black.webp');
+    background-image: url('../../Assets/Background/Eyebrows_Black.png');
     background-size: cover;
     background-position: center;
     -webkit-background-size: cover;

@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import { Row, Col } from 'reactstrap';
-import me from '../../Assets/Images/best_pmu_specialist.webp'
+import me from '../../Assets/Images/best_pmu_specialist.png'
 
 
 

@@ -1,10 +1,10 @@
 import React from 'react'
 import './Services.css'
 import { Row, Col } from 'reactstrap';
-import Microblading from '../../Assets/Images/Microblading_Model.webp'
-import PowderBrow from '../../Assets/Images/PowderBrow.webp'
-import lipblush from '../../Assets/Images/LipBlush_1.webp'
-import combo from '../../Assets/Images/Combo.webp'
+import Microblading from '../../Assets/Images/Microblading_Model.png'
+import PowderBrow from '../../Assets/Images/PowderBrow.png'
+import lipblush from '../../Assets/Images/LipBlush_1.png'
+import combo from '../../Assets/Images/Combo.png'
 
 
 

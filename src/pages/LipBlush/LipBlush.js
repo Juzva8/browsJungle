@@ -2,9 +2,9 @@ import React from 'react';
 import { Row, Col } from 'reactstrap';
 import './LipBlush.css'
 import ServicesComponent from '../../Components/ServicesComponent/ServicesComponent'
-import LipBlushing from '../../Assets/Images/Lip_blushing.webp'
-import blush from '../../Assets/Images/Lips.webp'
-import lips from '../../Assets/Images/Lip_Blush_after_procedure.webp'
+import LipBlushing from '../../Assets/Images/Lip_blushing.png'
+import blush from '../../Assets/Images/Lips.png'
+import lips from '../../Assets/Images/Lip_Blush_after_procedure.png'
 
 
 function LipBlush() {
