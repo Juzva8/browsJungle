@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
+    "ansi-html": "^0.0.9",
     "babel-register": "^6.26.0",
     "bootstrap": "^4.6.0",
     "immer": "9.0.6",
