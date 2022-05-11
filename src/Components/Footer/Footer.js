@@ -33,8 +33,10 @@ const Footer = () => (
               <div className="col item social">
                 <a href="https://www.facebook.com/browsjungles" target="_blank">  <i className="fab fa-facebook-f icon"></i></a>
                 <a href="mailto:browsjungle@gmail.com" target="_blank"><i className="fa fa-envelope icon" ></i></a>
+                <a href="https://www.yelp.com/biz/brows-jungle-corona-2" target="_blank"><i className="fab fa-yelp icon"></i></a>
                 <a href="https://www.instagram.com/browsjungle/" target="_blank"><i className="fab fa-instagram icon"></i></a>
                 <a href="https://goo.gl/maps/CjQfJHT7Wm3AWKge7" target="_blank"><i className="fab fa-google icon"></i></a>
+            
                 </div>
           </div>
           <p className="copyright">Brows Jungle LLC © 2022</p>
