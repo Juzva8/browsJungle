@@ -52,7 +52,7 @@ function PmuBrows() {
           </a>
         </Col>
         <Col id="PmuBrows__R1__col1" xl="4">
-         <img id = "PmuBrows_img__body" src={ombre} alt="Digital Advertising"/>
+         <img id = "PmuBrows_img__body" src={ombre} alt="Ombre brow makeup"/>
           </Col>
         </Row>
         <Row className="PmuBrows__row" >
