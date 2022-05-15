@@ -36,7 +36,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
               </a>
         </Col>
         <Col id="Home__R1__col1" xl="4">
-         <img id = "Home_img__body" src={permanent} alt="Digital Advertising" type="image/webp"/>
+         <img id = "Home_img__body" src={permanent} alt="Digital Advertising"/>
           </Col>
         </Row>
         <div className="Home__Section__2">
