@@ -1,11 +1,7 @@
 import React from 'react'
 import { Row, Col } from 'reactstrap';
-import Img from "react-webp-image";
 import { InlineWidget } from "react-calendly";
-import imgPath from "../../Assets/Images/Microblading.webp";
-import webpPath from "../../Assets/Images/Microblading.png";
-
-// import permanent from '../../Assets/Images/Microblading.webp';
+import permanent from '../../Assets/Images/Microblading.png';
 import lips from '../../Assets/Images/Lips.png';
 import combo from '../../Assets/Images/permanent.png';
 import './Home.css';
@@ -39,8 +35,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
               </a>
         </Col>
         <Col id="Home__R1__col1" xl="4">
-        <Img id = "Home_img__body" src={imgPath} webp={webpPath} alt="I'm a webp image" />
-         {/* <img id = "Home_img__body" src={permanent} type="image/webp" alt="permanent makeup" /> */}
+         <img id = "Home_img__body" src={permanent} type="image/webp" alt="permanent makeup" />
           </Col>
         </Row>
         <div className="Home__Section__2">
