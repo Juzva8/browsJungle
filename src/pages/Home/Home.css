@@ -3,7 +3,7 @@
     scroll-behavior: smooth;
     }
     
-    .Home__Banner{
+    .Home__Banner .webp{
     min-height: 80vh;
     background-image: url('../../Assets/Background/Eyebrows_Black.webp');
     opacity:0.9;
