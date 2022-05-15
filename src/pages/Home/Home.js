@@ -36,7 +36,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
               </a>
         </Col>
         <Col id="Home__R1__col1" xl="4">
-         <img id = "Home_img__body" src={permanent} alt="Digital Advertising"/>
+         <img id = "Home_img__body" webp={permanent} alt="permanent makeup"/>
           </Col>
         </Row>
         <div className="Home__Section__2">
@@ -47,7 +47,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
         </Row>
         <Row className="Home__row" >
         <Col id="Home__R1__col1" xl="4">
-         <img id = "Home_img__body" src={lips} alt="Digital Advertising"/>
+         <img id = "Home_img__body" src={lips} alt="lips makeup"/>
           </Col>
             <Col>
           <h3 className="Home__h3">
@@ -94,7 +94,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
             </a>
         </Col>
         <Col id="Home__R1__col1" xl="4">
-         <img id = "Home_img__body" src={combo} alt="Digital Advertising"/>
+         <img id = "Home_img__body" src={combo} alt="combo brows"/>
           </Col>
         </Row>
 </div>

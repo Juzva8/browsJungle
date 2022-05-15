@@ -37,7 +37,7 @@ const Services = () => {
               </a>
         </Col>
         <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={Microblading} alt="Digital Advertising"/>
+         <img id = "Services_img__body" src={Microblading} alt="Microblading"/>
           </Col>
         </Row>
         <Row className="Services__row__2" >
@@ -48,7 +48,7 @@ const Services = () => {
         <Row className="Services__row" >
            
         <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={PowderBrow} alt="Digital Advertising"/>
+         <img id = "Services_img__body" src={PowderBrow} alt="Powder Brow"/>
           </Col>
           <Col>
           <p className="Services__p">
@@ -84,7 +84,7 @@ const Services = () => {
               </a>
         </Col>
         <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={lipblush} alt="Digital Advertising"/>
+         <img id = "Services_img__body" src={lipblush} alt="lipb lush"/>
           </Col>
         </Row>
         <Row className="Services__row__2" >
@@ -95,7 +95,7 @@ const Services = () => {
         <Row className="Services__row" >
            
         <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={combo} alt="Digital Advertising"/>
+         <img id = "Services_img__body" src={combo} alt="Combo Brows"/>
           </Col>
           <Col>
           <p className="Services__p">

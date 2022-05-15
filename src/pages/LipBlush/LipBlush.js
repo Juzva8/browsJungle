@@ -43,7 +43,7 @@ function LipBlush() {
           </a>
         </Col>
         <Col id="LipBlush__R1__col1" xl="4">
-         <img id = "LipBlush_img__body" src={LipBlushing} alt="Digital Advertising"/>
+         <img id = "LipBlush_img__body" src={LipBlushing} alt="Lip Blush"/>
           </Col>
         </Row>
         <Row className="LipBlush__row__2" >
