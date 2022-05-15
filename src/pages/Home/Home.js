@@ -36,8 +36,7 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
               </a>
         </Col>
         <Col id="Home__R1__col1" xl="4">
-         {/* <img id = "Home_img__body" src={permanent} alt="permanent makeup"/> */}
-         <img id = "Home_img__body" src='../../Assets/Images/Microblading.webp' alt="permanent makeup"/>
+         <img id = "Home_img__body" src={permanent} type="image/webp" alt="permanent makeup" />
           </Col>
         </Row>
         <div className="Home__Section__2">
