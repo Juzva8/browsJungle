@@ -8,6 +8,19 @@ import './Home.css';
 import ServicesComponent from '../../Components/ServicesComponent/ServicesComponent';
 import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
 
+const ImgWithFallback = ({
+  src,
+  fallback,
+  type = 'image/webp',
+  ...delegated
+}) => {
+  return (
+    <picture>
+      <source srcSet={src} type={type} />
+      <img src={fallback} {...delegated} />
+    </picture>
+  );
+};
 
 
       const Home = () => {
@@ -36,7 +49,15 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
               </a>
         </Col>
         <Col id="Home__R1__col1" xl="4">
-         <img id = "Home_img__body" src={permanent} type="image/webp" alt="permanent makeup" />
+
+        <ImgWithFallback 
+          id = "Home_img__body"
+          src={permanent}
+          fallback="../../Assets/Images/Microblading.png"
+          alt="permanent makeup"
+          />
+
+         {/* <img id = "Home_img__body" src={permanent} type="image/webp" alt="permanent makeup" /> */}
           </Col>
         </Row>
         <div className="Home__Section__2">
