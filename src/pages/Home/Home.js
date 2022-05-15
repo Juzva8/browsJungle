@@ -36,7 +36,8 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
               </a>
         </Col>
         <Col id="Home__R1__col1" xl="4">
-         <img id = "Home_img__body" src={permanent} alt="permanent makeup"/>
+         {/* <img id = "Home_img__body" src={permanent} alt="permanent makeup"/> */}
+         <img id = "Home_img__body" src='https://www.howtogeek.com/wp-content/uploads/2017/09/img_59b89568ec308.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1' alt="permanent makeup"/>
           </Col>
         </Row>
         <div className="Home__Section__2">
