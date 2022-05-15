@@ -1,7 +1,7 @@
 import React from 'react'
 import { Row, Col } from 'reactstrap';
 import { InlineWidget } from "react-calendly";
-import permanent from '../../Assets/Images/Microblading.webp';
+import permanent from '../../Assets/Images/Microblading.png';
 import lips from '../../Assets/Images/Lips.png';
 import combo from '../../Assets/Images/permanent.png';
 import './Home.css';
