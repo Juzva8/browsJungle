@@ -10519,6 +10519,11 @@ react-transition-group@^4.4.2:
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
 
+react-webp-image@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/react-webp-image/-/react-webp-image-1.0.8.tgz#581b04dc9821d1a51fa30a0c999c64000add9e3a"
+  integrity sha512-bN2JZjqRDoXppFb5UbiTVFEsnpZEFAAfrbcSvuqUmSYNWQK/g24PmP4IRvMreCZ0zq9Elm+2Oe+5P6PQ8nzang==
+
 react@^17.0.1:
   version "17.0.2"
   resolved "https://registry.npmjs.org/react/-/react-17.0.2.tgz"
