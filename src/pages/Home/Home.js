@@ -3,7 +3,7 @@ import { Row, Col } from 'reactstrap';
 import { InlineWidget } from "react-calendly";
 import permanent from '../../Assets/Images/Microblading.png';
 import lips from '../../Assets/Images/Lips.png';
-import combo from '../../Assets/Images/permanent.png';
+import combo from '../../Assets/Images/permanent-makeup.png';
 import './Home.css';
 import ServicesComponent from '../../Components/ServicesComponent/ServicesComponent';
 import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
