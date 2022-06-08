@@ -121,13 +121,10 @@
 		scroll-behavior: smooth;
 		justify-content: center;
 	}
-	/* .Home__Banner{
-		display: none;
-	}
-	*/
+
 	.Home__Banner{
-		min-height: 15vh;
-		background-image: url('../../Assets/Background/Eyebrows_Black.png');
+		min-height: 30vh;
+		/* background-image: url('../../Assets/Background/Eyebrows_Black.png'); */
 		background-size: cover;
 		background-position: center;
 		-webkit-background-size: cover;
