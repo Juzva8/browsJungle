@@ -68,9 +68,9 @@ const About = () => {
                 Lip Blush 1:1 Training With “LA Microbrow”</h3>
               <p id="About__p__1"> 
               10.27.2021</p>
-              <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+              <a href="facetime:17472247451‬" target='_blank'>     
               <button id='About__row1__button' href='/'>
-              Book Now</button>
+              Call For Consultation</button>
               </a>
           </Col>
 
