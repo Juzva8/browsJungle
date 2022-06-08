@@ -1,88 +1,79 @@
 .zero{
-    display: flex;
-    flex-direction: row;
-    padding:0;
-    margin:0;
+	display: flex;
+	flex-direction: row;
+	padding:0;
+	margin:0;
 }
 .NeedToKnow-slide {
-    height: auto;
-    cursor: pointer;
+	height: auto;
+	cursor: pointer;
 }
-
 .NeedToKnow-box {
-    height: 450px;
-    width: 350px;
-    border: 2px solid #f2f2f2;
-    padding: 40px;
-    border-radius: 0 60px;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-    -ms-transition: all 0.3s ease-out;
-    -webkit-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
-    -moz-box-shadow: 0 4px 6px 0 rgba(0,0,0,.2);
-    box-shadow: 0 4px 6px 0 rgb(0 0 0 / 20%);
-    margin: 5px 20px 20px 20px;
+	height: 450px;
+	width: 350px;
+	border: 2px solid #f2f2f2;
+	padding: 40px;
+	border-radius: 0 60px;
+	-webkit-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-webkit-box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0 4px 6px 0 rgba(0,0,0,.2);
+	box-shadow: 0 4px 6px 0 rgb(0 0 0 / 20%);
+	margin: 5px 20px 20px 20px;
 }
-
 .NeedToKnow-name {
-    font-weight: 700;
-    font-size: 1.25em;
-    letter-spacing: .05em;
-    text-transform: uppercase;
-    margin-top: 0;
-    height: 60px;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-    -ms-transition: all 0.3s ease-out;
+	font-weight: 700;
+	font-size: 1.25em;
+	letter-spacing: .05em;
+	text-transform: uppercase;
+	margin-top: 0;
+	height: 60px;
+	-webkit-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
 }
-
 .NeedToKnow-text {
-    line-height: 1.8em;
-    font-size: 1em;
-    margin-bottom: 30%;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-    -ms-transition: all 0.3s ease-out;
+	line-height: 1.8em;
+	font-size: 1em;
+	margin-bottom: 30%;
+	-webkit-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
 }
-
 a.NeedToKnow__button {
-    background-color: #619c1c;
-    padding: 10px 15px;
-    display: block;
-    font-size: 1em;
-    text-transform: uppercase;
-    text-align: center;
-    color: #fafafa;
-    letter-spacing: .1em;
-    border-radius: 5px;
-    width: 200px;
-    border: none;
-    clear: both;
-    -webkit-transition: all 0.3s ease-out;
-    -o-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-    text-decoration: none;
+	background-color: #619c1c;
+	padding: 10px 15px;
+	display: block;
+	font-size: 1em;
+	text-transform: uppercase;
+	text-align: center;
+	color: #fafafa;
+	letter-spacing: .1em;
+	border-radius: 5px;
+	width: 200px;
+	border: none;
+	clear: both;
+	-webkit-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	text-decoration: none;
 }
-
 a.NeedToKnow__button:hover{
-    color: #619c1c;
-    background-color: #fafafa;
-    border: 1px solid #619c1c;;
-     font-size: 15px;
-     font-weight: bold;
-     }
-
-
-     @media (max-width:950px){
-     
-        .NeedToKnow-box {
-        display:none
-        }
-    }
-
+	color: #619c1c;
+	background-color: #fafafa;
+	border: 1px solid #619c1c;
+	;
+	font-size: 15px;
+	font-weight: bold;
+}
+@media (max-width:950px){
+	.NeedToKnow-box {
+		display:none
+}
+}
 @media (max-width:500px){
-     
-    .NeedToKnow-box {
-    display:none
-    }
+	.NeedToKnow-box {
+		display:none
+}
 }

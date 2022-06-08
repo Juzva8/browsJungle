@@ -1,209 +1,168 @@
-
-  .Pricing{
-    background-color: #Fafafa;
-    scroll-behavior: smooth;
-    }
-
-.Pricing__row{
-    margin: 0% !important;
-    justify-content: space-around;
-    }
-    
-
-    #Pricing__R1__col1{
-      text-align: center;
-      align-items: center;
-    }
-    
-  .Pricing__row__3{
-    margin: 1% 10%;
-    justify-content: space-around;
-    }
-
-      .Pricing__h1{
-      margin: 3% 5% 0% 5% ;
-      font-weight: bold;
-      color: #619c1c;
-      text-align: center;
-      font-size: 40px;
-      font-weight: bold;
-      letter-spacing: .1em;
-      font-family: 'Lato', sans-serif;
-      }
-
-      .Pricing__h1__4{
-        margin: 1% 5% 0% 5% ;
-        font-weight: bold;
-        color: #619c1c;
-        text-align: center;
-        font-size: 40px;
-        font-weight: bold;
-        letter-spacing: .1em;
-        font-family: 'Lato', sans-serif;
-
-      }
-
-
-.Pricing__h2{
-      margin: 1% 20%;
-      text-align: center;
-      font-size: 20px;
-      letter-spacing: .1em;
-      font-family: 'Lato', sans-serif;
+.Pricing{
+	background-color: #Fafafa;
+	scroll-behavior: smooth;
 }
-
-
+.Pricing__row{
+	margin: 0% !important;
+	justify-content: space-around;
+}
+#Pricing__R1__col1{
+	text-align: center;
+	align-items: center;
+}
+.Pricing__row__3{
+	margin: 1% 10%;
+	justify-content: space-around;
+}
+.Pricing__h1{
+	margin: 3% 5% 0% 5% ;
+	font-weight: bold;
+	color: #619c1c;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
+}
+.Pricing__h1__4{
+	margin: 1% 5% 0% 5% ;
+	font-weight: bold;
+	color: #619c1c;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
+}
+.Pricing__h2{
+	margin: 1% 20%;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
+}
 .Pricing__h2__mob{
-  margin: 2% 20%;
-      text-align: center;
-      font-size: 20px;
-      letter-spacing: .1em;
-      font-family: 'Lato', sans-serif;
-
+	margin: 2% 20%;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
 }
 .Pricing__p{
-      margin: 25px 20px;
-      min-height: 85px;
-      font-size: 10px;
-      letter-spacing: .1em;
-      font-family: 'Lato', sans-serif;
-      text-align: center;
+	margin: 25px 20px;
+	min-height: 85px;
+	font-size: 10px;
+	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
 }
 .Pricing__p__1{
-  margin: 25px 20px;
-  min-height: 85px;
-  font-size: 10px;
-  letter-spacing: .1em;
-  font-family: 'Lato', sans-serif;
-  text-align: center;
-
+	margin: 25px 20px;
+	min-height: 85px;
+	font-size: 10px;
+	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
 }
-
 .Pricing__h2__price{
-  margin: 2% 20%;
-  color: #619c1c;
-  text-align: center;
-  font-size: 20px;
-  letter-spacing: .1em;
-  font-family: 'Lato', sans-serif;
+	margin: 2% 20%;
+	color: #619c1c;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
 }
-
-
 #Pricing__row1__button{
-  margin: 50px auto;
-  background-color: #619c1c;
-  color: white;
-  border-radius: 5px;
-  padding: 10px 40px;
-  font-size: 15px;
-  -webkit-transition: .3s ease-in-out;
-  transition: .5s ease-in-out;
-   }
-   
-   #Pricing__row1__button:hover{
-   color: #619c1c;
-   background-color: white;
-    border-radius: 5px;
-
-    }
-
-    @media (max-width: 500px){
-
-      .Pricing__row__3{
-        margin: 2% 0%;
-        align-items: center;
-        }
-
-
-        .Pricing__h1{
-            margin: 10% 5% 3% 5%;
-            font-weight: bold;
-            color: #619c1c;
-            text-align: center;
-            font-size: 25px;
-            font-family: 'Lato', sans-serif;
-          }
-
-
-          .Pricing__h2{
-            margin: 2% 0%;
-            padding: 0% 2%;
-            text-align: center;
-            font-size: 20px;
-            letter-spacing: .1em;
-            font-family: 'Lato', sans-serif;
-      }
-
-      .Pricing__p{
-        margin: 5% 0% 0% 0%; 
-          font-size:15px;
-          letter-spacing: .1em;
-          font-family: 'Lato', sans-serif;
-          text-align: center;
-  }
-
-
-  .Pricing__p__1{
-    margin: 5px 5px;
-    font-size:15px;
-    letter-spacing: .1em;
-    font-family: 'Lato', sans-serif;
-    text-align: center;
-  
-  }
-
-
-  #Pricing__row1__button{
-    margin: 10px auto;
-    background-color: #619c1c;
-    color: white;
-    border-radius: 5px;
-    padding: 10px 40px;
-    font-size: 15px;
-    -webkit-transition: .3s ease-in-out;
-    transition: .5s ease-in-out;
-     }
-     
-     #Pricing__row1__button:hover{
-     color: #619c1c;
-     background-color: white;
-      border-radius: 5px;
-  
-      }
-
-      .Pricing__row__3{
-        margin-top: 10%;
-        justify-content: space-around;
-        }
-
-        #Pricing__R1__col1{
-          margin-top: 1%;
-          margin-bottom: 10%;
-        }
-
-        .Pricing__h2__price{
-          margin: 5% 20% 0% 20%;
-          color: #619c1c;
-          text-align: center;
-          font-size: 20px;
-          letter-spacing: .1em;
-          font-family: 'Lato', sans-serif;
-        }
-
-
-      .Pricing__h1__4{
-        margin: 0% 5% 1% 5% ;
-        font-weight: bold;
-        color: #619c1c;
-        text-align: center;
-        font-size: 25px;
-        letter-spacing: .1em;
-        font-family: 'Lato', sans-serif;
-      }
-
-      .Pricing__h2__mob{
-            display:none;
-
-      }
-    
-    }
+	margin: 50px auto;
+	background-color: #619c1c;
+	color: white;
+	border-radius: 5px;
+	padding: 10px 40px;
+	font-size: 15px;
+	-webkit-transition: .3s ease-in-out;
+	transition: .5s ease-in-out;
+}
+#Pricing__row1__button:hover{
+	color: #619c1c;
+	background-color: white;
+	border-radius: 5px;
+}
+@media (max-width: 500px){
+	.Pricing__row__3{
+		margin: 2% 0%;
+		align-items: center;
+	}
+	.Pricing__h1{
+		margin: 10% 5% 3% 5%;
+		font-weight: bold;
+		color: #619c1c;
+		text-align: center;
+		font-size: 25px;
+		font-family: 'Lato', sans-serif;
+	}
+	.Pricing__h2{
+		margin: 2% 0%;
+		padding: 0% 2%;
+		text-align: center;
+		font-size: 20px;
+		letter-spacing: .1em;
+		font-family: 'Lato', sans-serif;
+	}
+	.Pricing__p{
+		margin: 5% 0% 0% 0%;
+		font-size:15px;
+		letter-spacing: .1em;
+		font-family: 'Lato', sans-serif;
+		text-align: center;
+	}
+	.Pricing__p__1{
+		margin: 5px 5px;
+		font-size:15px;
+		letter-spacing: .1em;
+		font-family: 'Lato', sans-serif;
+		text-align: center;
+	}
+	#Pricing__row1__button{
+		margin: 10px auto;
+		background-color: #619c1c;
+		color: white;
+		border-radius: 5px;
+		padding: 10px 40px;
+		font-size: 15px;
+		-webkit-transition: .3s ease-in-out;
+		transition: .5s ease-in-out;
+	}
+	#Pricing__row1__button:hover{
+		color: #619c1c;
+		background-color: white;
+		border-radius: 5px;
+	}
+	.Pricing__row__3{
+		margin-top: 10%;
+		justify-content: space-around;
+	}
+	#Pricing__R1__col1{
+		margin-top: 1%;
+		margin-bottom: 10%;
+	}
+	.Pricing__h2__price{
+		margin: 5% 20% 0% 20%;
+		color: #619c1c;
+		text-align: center;
+		font-size: 20px;
+		letter-spacing: .1em;
+		font-family: 'Lato', sans-serif;
+	}
+	.Pricing__h1__4{
+		margin: 0% 5% 1% 5% ;
+		font-weight: bold;
+		color: #619c1c;
+		text-align: center;
+		font-size: 25px;
+		letter-spacing: .1em;
+		font-family: 'Lato', sans-serif;
+	}
+	.Pricing__h2__mob{
+		display:none;
+	}
+}
