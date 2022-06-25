@@ -1,7 +1,7 @@
 import React from 'react'
 import './Workshop.css'
 import { Row, Col } from 'reactstrap';
-import me from '../../Assets/Images/best_pmu_specialist.png'
+import ClassWorkshopCourse from '../../Assets/Images/Class__workshop__course.png'
 
 
 
@@ -11,7 +11,7 @@ const Workshop = () => {
 
         <Row className="Workshop__row" >
         <Col id="Workshop__R1__col1" xl="4">
-         <img id = "Workshop_img__body" src={me} alt="Corona PMU"/>
+         <img id = "Workshop_img__body" src={ClassWorkshopCourse} alt="Corona PMU"/>
           </Col>
             <Col>
           <h1 className="Workshop__h1">
