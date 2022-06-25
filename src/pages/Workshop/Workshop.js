@@ -18,15 +18,18 @@ const Workshop = () => {
           1:1 OMBRE POWDER BROW TRAINING FOR BEGINNERS
           </h1>
           <p className="Workshop__p">
-          My name is Erika, and I am excited to welcome you to Brows Jungle, LLC! I honestly believe that brows can make or break any look, 
-          and my passion for what I do, combined with the desire to be the best, distinguishes me from other artists. I am a perfectionist by nature, 
-          and extremely detail oriented, which as a PMU is a huge advantage. I use innovative techniques and superior products to enhance and highlight my client’s natural beauty, 
-          for exceptionally gorgeous results. If you are looking for a company that makes your brows and lips satisfaction their top priority, 
-          Brows Jungle, LLC is the place for you! PMU beauty salon located in Corona, California! I am looking forward to seeing you soon!
+          Ombre powder brow workshop course is all about powder brow technique and what you need to know in order to start the PMU brow business:  
+          sanitation/hygiene, licensing, marketing, brow mapping/shaping, color theory, powder technique, skin anatomy, needles, photography, pictures/video editing and so much more. 
+          At the end of the trainings, you will receive a shading starter kit with the basic supplies. The shading starter kit is worth $600.<br/>
+          Starting your own business might be scary, I know as  I went through all of this and I’m here to help you. 
+          I will share my knowledge, experience, and so much more that I was missing during my training. 
+          There is a saying that “Practice is the key” and I want to add that a good foundation at the beginning and knowledge of where to start is the key to success. <br/>
+          <br/>
+          $500 a non-refundable booking fee is required to reserve your spot at the workshop. The remaining payment is  due in Cash or Zelle a day before the course starts. 
           </p>
           </Col>
           </Row>
-          <Row className="Workshop__row" >
+          <Row className="Workshop__row__2" >
           <Col id="Workshop__R2__col1" xl="4">
           <div>
             <h5 className="Workshop__h5"> <strong>Day 1</strong>
@@ -36,18 +39,6 @@ const Workshop = () => {
               <p id="Workshop__p__1"> 
               (~8 Hours)</p>
                 </div>
-                <h3 className="Workshop__h3">
-                What Is The Best Gift You Have Been Given?</h3>
-              <p id="Workshop__p__1"> 
-              10 Years Ago, My Husband Bought Me A Dog. This Is The Only Gift That Matters.</p>
-                <h3 className="Workshop__h3">
-                If The Money Was No Object, What Would You Do All Day?</h3>
-              <p id="Workshop__p__1"> 
-              (~6 Hours)</p>
-                <h3 className="Workshop__h3">
-                Do you have any tattoos?</h3>
-              <p id="Workshop__p__1"> 
-              Yes, I Have 2 Hummingbirds On My Rib Cage. They Symbolize A New Start.</p>
           </Col>
           <Col id="Workshop__R2__col2" xl="4">
           <div>
@@ -58,47 +49,38 @@ const Workshop = () => {
               <p id="Workshop__p__1"> 
               (~6 hours)</p>
                 </div>
-                <h3 className="Workshop__h3">
-                Powder Brows 1:1 Training With “LA Microbrow”</h3>
-              <p id="Workshop__p__1"> 
-              03.15.2021</p>
-                <h3 className="Workshop__h3">
-                Lip Blush Online Training With Shay Danielle Academy</h3>
-              <p id="Workshop__p__1"> 
-              08.20.2021</p>
-                <h3 className="Workshop__h3">
-                Lip Blush 1:1 Training With “LA Microbrow”</h3>
-              <p id="Workshop__p__1"> 
-              10.27.2021</p>
-              {/* <a href="facetime:17472247451‬" target='_blank'>     
-              <button id='Workshop__row1__button' href='/'>
-              Call For Consultation</button>
-              </a> */}
+                <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+          <button id='Workshop__row1__button'>
+              Book Now</button>
+              </a>
           </Col>
           <Col id="Workshop__R2__col1" xl="4">
           <div>
             <h5 className="Workshop__h5"> <strong>Day 3</strong>
             </h5>
             <h3 className="Workshop__h3">
-            Me In Three Words</h3>
+            Practicing On The Model Day</h3>
               <p id="Workshop__p__1"> 
               (~6-8 Hours)</p>
                 </div>
-                <h3 className="Workshop__h3">
-                What Is The Best Gift You Have Been Given?</h3>
-              <p id="Workshop__p__1"> 
-              10 Years Ago, My Husband Bought Me A Dog. This Is The Only Gift That Matters.</p>
-                <h3 className="Workshop__h3">
-                If The Money Was No Object, What Would You Do All Day?</h3>
-              <p id="Workshop__p__1"> 
-              I Would Go Around The World With My Family And Still Do Permanent Makeup.</p>
-                <h3 className="Workshop__h3">
-                Do you have any tattoos?</h3>
-              <p id="Workshop__p__1"> 
-              Yes, I Have 2 Hummingbirds On My Rib Cage. They Symbolize A New Start.</p>
+               
           </Col>
           </Row>
+          <Row className="Workshop__row__2" >
+            <Col>
+          <h2 className="Workshop__h2">
+          Disclaimer
+          </h2>
+          <p className="Workshop__p__2">
+          BROWS JUNGLE, LLC is a licensed and permitted permanent makeup studio that offers workshops and services and cannot grant licenses or diplomas. 
+          At the end of the workshop, you will receive a certificate of completion. To become a permanent makeup artist, 
+          it is required to obtain your own licensing/permits through your own city/county. 
+          Each state/county has varying regulations/laws for permanent makeup and body art, 
+          and it is your responsibility to contact your local Health Department to verify specific requirements. 
 
+          </p>
+          </Col>
+          </Row>
         
       
     </div>

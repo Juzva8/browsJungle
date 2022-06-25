@@ -5,13 +5,24 @@
 .Workshop__row{
 	margin: 5% 10% 1% 10% ;
 }
+.Workshop__row__2{
+	margin: 0% 10% 1% 10% !important;
+}
 .Workshop__h1{
 	margin: 0px 60px;
 	font-weight: bold;
 	color: #619c1c;
-	text-align: left;
 	font-size: 40px;
 	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
+}
+.Workshop__h2{
+	margin: 0px 60px;
+	color: #2e2e2e;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: .1em;
+	text-align: center;
 	font-family: 'Lato', sans-serif;
 }
 .Workshop__p{
@@ -19,10 +30,18 @@
 	font-size: 20px;
 	letter-spacing: .1em;
 	font-family: 'Lato', sans-serif;
-	text-align: left;
 }
+
+.Workshop__p__2{
+	margin: 10px 60px;
+	font-size: 15px;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+
 #Workshop__R2__col1{
-	float: left;
+	float: center;
 	width: 50%;
 	padding: 5%;
 }
@@ -47,19 +66,32 @@
 }
 #Workshop__p__1{
 	padding-right: 10px;
+	text-align: center;
 }
 .Workshop__h5{
+	text-align: center;
 	color: #619c1c;
 	font-size: 20px;
 	padding-bottom: 5%;
 }
+
+
+.Workshop__h5__1{
+	text-align: left;
+	color: #2e2e2e;
+	font-size: 15px;
+	margin: 10px 60px;
+}
+
 .Workshop__h3{
+	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
 	font-family: 'Lato', sans-serif;
 }
 #Workshop__row1__button{
-	margin: 40px 0px;
+	min-width: 100%;
+	margin-top: 10%;
 	background-color: #619c1c;
 	color: white;
 	border-radius: 5px;
@@ -86,21 +118,36 @@
 	.Workshop__h1{
 		margin: 10% 0%;
 		color: #619c1c;
-		text-align: center;
 		font-size: 25px;
 		font-weight: bold;
 		letter-spacing: .1em;
 		font-family: 'Lato', sans-serif;
 	}
+
+	.Workshop__h2{
+		margin: 10% 0%;
+		color: #2e2e2e;
+		font-size: 20px;
+		font-weight: bold;
+		letter-spacing: .1em;
+		text-align: center;
+		font-family: 'Lato', sans-serif;
+	}
+
 	.Workshop__p{
 		margin: 15px 10px;
 		font-size:15px;
 		letter-spacing: .1em;
 		font-family: 'Lato', sans-serif;
-		text-align: center;
 	}
+	.Workshop__p__2{
+		margin: 15px 10px;
+		font-size:10px;
+		font-family: 'Lato', sans-serif;
+	}
+
 	#Workshop__R2__col1{
-		float: left;
+		float: center;
 		width: 100%;
 		padding: 5%;
 	}
@@ -110,37 +157,47 @@
 		padding: 5%;
 	}
 	.Workshop__h5{
+		text-align: center;
 		color: #619c1c;
 		font-size: 15px;
 		padding-bottom: 5%;
 	}
+
+	.Workshop__h5__1{
+		text-align: left;
+		color: #2e2e2e;
+		font-size: 15px;
+		margin: 15px 10px;
+	}
+
+
 	#Workshop__p__1{
 		padding-right: 10px;
 		font-size:15px;
 		letter-spacing: .1em;
-		text-align: center;
+
 		font-family: 'Lato', sans-serif;
 	}
 	.Workshop__h5{
+		text-align: center;
 		color: #619c1c;
 		font-size: 15px;
 		padding-bottom: 5%;
 	}
 	.Workshop__h3{
+		text-align: center;
 		font-size: 15px;
 		font-weight: bold;
 		font-family: 'Lato', sans-serif;
 	}
 	#Workshop__row1__button{
-		max-width:90%;
+		min-width:100%;
 		font-size: 15px;
 		border-radius: 5px;
-		margin: 10%;
 		padding: 10px;
 		font-size: 15px;
 		align-items: center;
 		display: block;
-		margin-left: auto;
 		margin-right: auto;
 		background-color: #619c1c;
 		color: white;
@@ -150,15 +207,12 @@
 		transition: .5s ease-in-out;
 	}
 	#Workshop__row1__button:hover{
-		max-width:90%;
 		font-size: 15px;
 		border-radius: 5px;
-		margin: 10%;
 		padding: 10px;
 		font-size: 15px;
 		align-items: center;
 		display: block;
-		margin-left: auto;
 		margin-right: auto;
 		background-color: #619c1c;
 		color: white;
