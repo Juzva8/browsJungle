@@ -11,6 +11,7 @@ import About from './pages/About/About';
 import Contact from './pages/Contact/Contact';
 import Home from './pages/Home/Home';
 import Services from './pages/Service/Services';
+import Workshop from './pages/Workshop/Workshop';
 import BeforeBooking from './pages/Before-Booking/Before-Booking';
 import Gallery from './pages/Gallery/Gallery';
 import Pricing from './pages/Pricing/Pricing';
@@ -32,6 +33,9 @@ const App = () => {
         </Route>
         <Route path="/service" exact>
           <Services/>
+        </Route>
+        <Route path="/workshop" exact>
+          <Workshop/>
         </Route>
         <Route path="/before-booking" exact>
           <BeforeBooking/>
@@ -56,7 +60,7 @@ const App = () => {
     </main>
           <Footer />
    </Router>
-
+   
     </>
  
   )
