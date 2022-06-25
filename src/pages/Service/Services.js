@@ -84,7 +84,7 @@ const Services = () => {
               </a>
         </Col>
         <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={lipblush} alt="lipb lush"/>
+         <img id = "Services_img__body" src={lipblush} alt="lip lush"/>
           </Col>
         </Row>
         <Row className="Services__row__2" >

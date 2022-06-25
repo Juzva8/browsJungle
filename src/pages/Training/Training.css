@@ -1,14 +1,14 @@
-.Workshop{
+.Training{
 	background-color: #fafafa;
 	scroll-behavior: smooth;
 }
-.Workshop__row{
+.Training__row{
 	margin: 5% 10% 1% 10% ;
 }
-.Workshop__row__2{
+.Training__row__2{
 	margin: 0% 10% 1% 10% !important;
 }
-.Workshop__h1{
+.Training__h1{
 	margin: 0px 60px;
 	font-weight: bold;
 	color: #619c1c;
@@ -16,7 +16,7 @@
 	letter-spacing: .1em;
 	font-family: 'Lato', sans-serif;
 }
-.Workshop__h2{
+.Training__h2{
 	margin: 0px 60px;
 	color: #2e2e2e;
 	font-size: 30px;
@@ -25,20 +25,20 @@
 	text-align: center;
 	font-family: 'Lato', sans-serif;
 }
-.Workshop__p{
+.Training__p{
 	margin: 10px 60px;
 	font-size: 20px;
 	letter-spacing: .1em;
 	font-family: 'Lato', sans-serif;
 }
 
-.Workshop__p__2{
+.Training__p__2{
 	margin: 10px 60px;
 	font-size: 15px;
 	text-align: center;
 	font-family: 'Lato', sans-serif;
 }
-.Workshop__h2__price{
+.Training__h2__price{
 	margin: 0% 20%;
 	color: #619c1c;
 	text-align: center;
@@ -47,17 +47,17 @@
 	font-family: 'Lato', sans-serif;
 }
 
-#Workshop__R2__col1{
+#Training__R2__col1{
 	float: center;
 	width: 50%;
 	padding: 5%;
 }
-#Workshop__R2__col2{
+#Training__R2__col2{
 	float: right;
 	width: 50%;
 	padding: 5%;
 }
-#Workshop_img__body {
+#Training_img__body {
 	max-width: 100%;
 	height: auto;
 	max-height: 90vh;
@@ -65,17 +65,17 @@
 	-webkit-transition: .3s ease-in-out;
 	transition: 1s ease-in-out;
 }
-#Workshop_img__body:hover {
+#Training_img__body:hover {
 	max-width: 102%;
 	height: auto;
 	-webkit-transition: .3s ease-in-out;
 	transition: 1s ease-in-out;
 }
-#Workshop__p__1{
+#Training__p__1{
 	padding-right: 10px;
 	text-align: center;
 }
-.Workshop__h5{
+.Training__h5{
 	text-align: center;
 	color: #619c1c;
 	font-size: 20px;
@@ -83,20 +83,20 @@
 }
 
 
-.Workshop__h5__1{
+.Training__h5__1{
 	text-align: left;
 	color: #2e2e2e;
 	font-size: 15px;
 	margin: 10px 60px;
 }
 
-.Workshop__h3{
+.Training__h3{
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
 	font-family: 'Lato', sans-serif;
 }
-#Workshop__row1__button{
+#Training__row1__button{
 	max-width: 50%;
 	margin-top: 2%;
 	margin-bottom: 3%;
@@ -109,7 +109,7 @@
 	-webkit-transition: .3s ease-in-out;
 	transition: .5s ease-in-out;
 }
-#Workshop__row1__button:hover{
+#Training__row1__button:hover{
 	color: #619c1c;
 	background-color: #fafafa;
 	border-radius: 5px;
@@ -125,10 +125,10 @@
 
 
 @media (max-width: 500px){
-	.Workshop__row{
+	.Training__row{
 		margin: 10% 0%;
 	}
-	.Workshop__h1{
+	.Training__h1{
 		margin: 10% 0%;
 		color: #619c1c;
 		font-size: 25px;
@@ -137,7 +137,7 @@
 		font-family: 'Lato', sans-serif;
 	}
 
-	.Workshop__h2{
+	.Training__h2{
 		margin: 10% 0%;
 		color: #2e2e2e;
 		font-size: 20px;
@@ -147,36 +147,36 @@
 		font-family: 'Lato', sans-serif;
 	}
 
-	.Workshop__p{
+	.Training__p{
 		margin: 15px 10px;
 		font-size:15px;
 		letter-spacing: .1em;
 		font-family: 'Lato', sans-serif;
 	}
-	.Workshop__p__2{
+	.Training__p__2{
 		margin: 15px 10px;
 		font-size:10px;
 		font-family: 'Lato', sans-serif;
 	}
 
-	#Workshop__R2__col1{
+	#Training__R2__col1{
 		float: center;
 		width: 100%;
 		padding: 5%;
 	}
-	#Workshop__R2__col2{
+	#Training__R2__col2{
 		float: right;
 		width: 100%;
 		padding: 5%;
 	}
-	.Workshop__h5{
+	.Training__h5{
 		text-align: center;
 		color: #619c1c;
 		font-size: 15px;
 		padding-bottom: 5%;
 	}
 
-	.Workshop__h5__1{
+	.Training__h5__1{
 		text-align: left;
 		color: #2e2e2e;
 		font-size: 15px;
@@ -186,27 +186,27 @@
 align-items: center;
 	}
 
-	#Workshop__p__1{
+	#Training__p__1{
 		padding-right: 10px;
 		font-size:15px;
 		letter-spacing: .1em;
 
 		font-family: 'Lato', sans-serif;
 	}
-	.Workshop__h5{
+	.Training__h5{
 		text-align: center;
 		color: #619c1c;
 		font-size: 15px;
 		padding-bottom: 5%;
 	}
-	.Workshop__h3{
+	.Training__h3{
 		text-align: center;
 		font-size: 15px;
 		font-weight: bold;
 		font-family: 'Lato', sans-serif;
 	}
 
-	.Workshop__h2__price{
+	.Training__h2__price{
 		margin: 0% 20%;
 		color: #619c1c;
 		text-align: center;
@@ -214,7 +214,7 @@ align-items: center;
 		letter-spacing: .1em;
 		font-family: 'Lato', sans-serif;
 	}
-	#Workshop__row1__button{
+	#Training__row1__button{
 		min-width: 80%;
 		margin-top: 5%;
 		margin-bottom: 3%;
@@ -231,7 +231,7 @@ align-items: center;
 		-webkit-transition: .3s ease-in-out;
 		transition: .5s ease-in-out;
 	}
-	#Workshop__row1__button:hover{
+	#Training__row1__button:hover{
 		font-size: 15px;
 		border-radius: 5px;
 		padding: 10px;
