@@ -18,14 +18,14 @@ const Workshop = () => {
           1:1 OMBRE POWDER BROW TRAINING FOR BEGINNERS
           </h1>
           <p className="Workshop__p">
-          Ombre powder brow workshop course is all about powder brow technique and what you need to know in order to start the PMU brow business:  
+          Ombre powder brow training is all about powder brow technique and what you need to know in order to start the PMU business:  
           sanitation/hygiene, licensing, marketing, brow mapping/shaping, color theory, powder technique, skin anatomy, needles, photography, pictures/video editing and so much more. 
           At the end of the trainings, you will receive a shading starter kit with the basic supplies. The shading starter kit is worth $600.<br/>
           Starting your own business might be scary, I know as  I went through all of this and I’m here to help you. 
           I will share my knowledge, experience, and so much more that I was missing during my training. 
           There is a saying that “Practice is the key” and I want to add that a good foundation at the beginning and knowledge of where to start is the key to success. <br/>
           <br/>
-          $600 a non-refundable booking fee is required to reserve your spot at the workshop. The remaining payment is  due in Cash or Zelle a day before the course starts. 
+          $600 a non-refundable booking fee is required to reserve your spot. The remaining payment is  due in Cash or Zelle a day before the training starts. 
           </p>
           </Col>
           </Row>
@@ -35,7 +35,7 @@ const Workshop = () => {
             <h5 className="Workshop__h5"> <strong>Day 1</strong>
             </h5>
             <h3 className="Workshop__h3">
-            All About Theory And Practice</h3>
+            Theory & Practice </h3>
               <p id="Workshop__p__1"> 
               (~8 Hours)</p>
                 </div>
@@ -45,7 +45,7 @@ const Workshop = () => {
             <h5 className="Workshop__h5"> <strong>Day 2</strong>
             </h5>
             <h3 className="Workshop__h3">
-            Learning Mapping Technique Day</h3>
+             Mapping & Shaping </h3>
               <p id="Workshop__p__1"> 
               (~6 hours)</p>
                 </div>
@@ -55,7 +55,7 @@ const Workshop = () => {
             <h5 className="Workshop__h5"> <strong>Day 3</strong>
             </h5>
             <h3 className="Workshop__h3">
-            Practicing On The Model Day</h3>
+            Practicing On The Model </h3>
               <p id="Workshop__p__1"> 
               (~6-8 Hours)</p>
                 </div>
@@ -66,7 +66,7 @@ const Workshop = () => {
             <Col>
             <div id="mobile_order">
              <h2 className="Workshop__h2__price">
-                / Only $2,000 /
+                / $2,000 /
               </h2>
                 <a id="button__style" href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Workshop__row1__button'>
