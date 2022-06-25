@@ -38,7 +38,14 @@
 	text-align: center;
 	font-family: 'Lato', sans-serif;
 }
-
+.Workshop__h2__price{
+	margin: 0% 20%;
+	color: #619c1c;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: .1em;
+	font-family: 'Lato', sans-serif;
+}
 
 #Workshop__R2__col1{
 	float: center;
@@ -90,8 +97,9 @@
 	font-family: 'Lato', sans-serif;
 }
 #Workshop__row1__button{
-	min-width: 100%;
-	margin-top: 10%;
+	max-width: 50%;
+	margin-top: 2%;
+	margin-bottom: 3%;
 	background-color: #619c1c;
 	color: white;
 	border-radius: 5px;
@@ -108,9 +116,14 @@
 	font-size: 20px;
 	font-weight: bold;
 }
-#mobile_fix{
-	display: none;
+
+#button__style{
+	display:flex;
+	flex-direction: column;
+	align-items: center;
 }
+
+
 @media (max-width: 500px){
 	.Workshop__row{
 		margin: 10% 0%;
@@ -169,7 +182,9 @@
 		font-size: 15px;
 		margin: 15px 10px;
 	}
-
+	#mobile_order{
+align-items: center;
+	}
 
 	#Workshop__p__1{
 		padding-right: 10px;
@@ -190,15 +205,25 @@
 		font-weight: bold;
 		font-family: 'Lato', sans-serif;
 	}
+
+	.Workshop__h2__price{
+		margin: 0% 20%;
+		color: #619c1c;
+		text-align: center;
+		font-size: 20px;
+		letter-spacing: .1em;
+		font-family: 'Lato', sans-serif;
+	}
 	#Workshop__row1__button{
-		min-width:100%;
+		min-width: 80%;
+		margin-top: 5%;
+		margin-bottom: 3%;
 		font-size: 15px;
 		border-radius: 5px;
 		padding: 10px;
 		font-size: 15px;
 		align-items: center;
 		display: block;
-		margin-right: auto;
 		background-color: #619c1c;
 		color: white;
 		text-align: center;
@@ -220,5 +245,10 @@
 		font-weight: bold;
 		-webkit-transition: .3s ease-in-out;
 		transition: .5s ease-in-out;
+	}
+	#button__style{
+		display:flex;
+		flex-direction: column;
+		align-items: center;
 	}
 }

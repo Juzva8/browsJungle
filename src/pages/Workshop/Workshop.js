@@ -25,7 +25,7 @@ const Workshop = () => {
           I will share my knowledge, experience, and so much more that I was missing during my training. 
           There is a saying that “Practice is the key” and I want to add that a good foundation at the beginning and knowledge of where to start is the key to success. <br/>
           <br/>
-          $500 a non-refundable booking fee is required to reserve your spot at the workshop. The remaining payment is  due in Cash or Zelle a day before the course starts. 
+          $600 a non-refundable booking fee is required to reserve your spot at the workshop. The remaining payment is  due in Cash or Zelle a day before the course starts. 
           </p>
           </Col>
           </Row>
@@ -49,10 +49,6 @@ const Workshop = () => {
               <p id="Workshop__p__1"> 
               (~6 hours)</p>
                 </div>
-                <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
-          <button id='Workshop__row1__button'>
-              Book Now</button>
-              </a>
           </Col>
           <Col id="Workshop__R2__col1" xl="4">
           <div>
@@ -63,11 +59,20 @@ const Workshop = () => {
               <p id="Workshop__p__1"> 
               (~6-8 Hours)</p>
                 </div>
-               
           </Col>
+        
           </Row>
           <Row className="Workshop__row__2" >
             <Col>
+            <div id="mobile_order">
+             <h2 className="Workshop__h2__price">
+                / Only $2,000 /
+              </h2>
+                <a id="button__style" href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+          <button id='Workshop__row1__button'>
+              Book Now</button>
+              </a>
+             </div>
           <h2 className="Workshop__h2">
           Disclaimer
           </h2>
@@ -82,7 +87,6 @@ const Workshop = () => {
           </Col>
           </Row>
         
-      
     </div>
   )
 }
