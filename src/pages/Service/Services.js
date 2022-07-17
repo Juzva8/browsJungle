@@ -7,9 +7,6 @@ import lipblush from '../../Assets/Images/LipBlush_1.png'
 import combo from '../../Assets/Images/Combo.png'
 
 
-
-
-
 const Services = () => {
   return (
     <div className="Services">
@@ -19,6 +16,9 @@ const Services = () => {
           </h1>
         </Row>
         <Row className="Services__row" >
+        <Col id="Services__R1__col1" xl="4">
+         <img id = "Services_img__body" src={Microblading} alt="Microblading"/>
+          </Col>
             <Col>
           <p className="Services__p">
           I believe the client should have a clear vision of the direction the finished product is going prior to beginning. 
@@ -36,9 +36,7 @@ const Services = () => {
               Book Now</button>
               </a>
         </Col>
-        <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={Microblading} alt="Microblading"/>
-          </Col>
+       
         </Row>
         <Row className="Services__row__2" >
         <h1 id="powderBrow__anchor__tag" className="Services__h1__2">
@@ -47,9 +45,7 @@ const Services = () => {
         </Row>
         <Row className="Services__row" >
            
-        <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={PowderBrow} alt="Powder Brow"/>
-          </Col>
+
           <Col>
           <p className="Services__p">
           WHAT IS OMBRÉ BROW?
@@ -64,6 +60,9 @@ const Services = () => {
               Book Now</button>
               </a>
         </Col>
+        <Col id="Services__R1__col1" xl="4">
+         <img id = "Services_img__body" src={PowderBrow} alt="Powder Brow"/>
+          </Col>
         </Row>
         <Row className="Services__row__2" >
         <h1 id="lipblush__anchor__tag" className="Services__h1">
@@ -71,6 +70,9 @@ const Services = () => {
           </h1>
         </Row>
         <Row className="Services__row" >
+        <Col id="Services__R1__col1" xl="4">
+         <img id = "Services_img__body" src={lipblush} alt="lip lush"/>
+          </Col>
             <Col>
           <p className="Services__p">
           Lip blush enhances your lips with a healthy youthful tint. Restore lost pigmentation with a natural-looking boost of color for everyday wear without the smudge or fade!
@@ -83,9 +85,7 @@ const Services = () => {
               Book Now</button>
               </a>
         </Col>
-        <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={lipblush} alt="lip lush"/>
-          </Col>
+
         </Row>
         <Row className="Services__row__2" >
         <h1 id="combo__anchor__tag" className="Services__h1__2">
@@ -94,9 +94,7 @@ const Services = () => {
         </Row>
         <Row className="Services__row" >
            
-        <Col id="Services__R1__col1" xl="4">
-         <img id = "Services_img__body" src={combo} alt="Combo Brows"/>
-          </Col>
+        
           <Col>
           <p className="Services__p">
           Combo brows is a combination of two forms of semi-permanent techniques: microblading and powder brows (shading). 
@@ -113,6 +111,9 @@ const Services = () => {
               Book Now</button>
               </a>
         </Col>
+        <Col id="Services__R1__col1" xl="4">
+         <img id = "Services_img__body" src={combo} alt="Combo Brows"/>
+          </Col>
         </Row>
     </div>
   )
