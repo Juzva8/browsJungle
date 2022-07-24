@@ -46,7 +46,7 @@ function PmuBrows() {
           <p className="PmuBrows__p">
           This technique offers the best of both powdered and hair stroke effects combined together to achieve a fluffy, textured, yet defined brow.
           </p>
-          <a href='https://calendly.com/browsjungle/4-5hours'>    
+          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>    
           <button id='PmuBrows__row1__button'>
           Book Now</button>
           </a>

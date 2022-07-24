@@ -68,7 +68,7 @@ const Training = () => {
              <h2 className="Training__h2__price">
                 / $2,000 /
               </h2>
-                <a id="button__style" href='https://calendly.com/browsjungle/4-5hours'>     
+                <a id="button__style" href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Training__row1__button'>
               Book Now</button>
               </a>
