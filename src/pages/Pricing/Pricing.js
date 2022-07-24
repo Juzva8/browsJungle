@@ -30,7 +30,7 @@ function Pricing() {
           <h2 className="Pricing__h2__price">
         / $425 /
          </h2>
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -46,7 +46,7 @@ function Pricing() {
           <h2 className="Pricing__h2__price">
         / $425 /
          </h2>
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -63,7 +63,7 @@ function Pricing() {
           <h2 className="Pricing__h2__price">
         / $425 /
          </h2>
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -81,7 +81,7 @@ function Pricing() {
           <h2 className="Pricing__h2__price">
         / $425 /
          </h2>
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -111,7 +111,7 @@ function Pricing() {
    <h2 className="Pricing__h2__price">
  / $120 /
   </h2>
-  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+  <a href='https://calendly.com/browsjungle/4-5hours'>     
    <button id='Pricing__row1__button'>
        Book Now</button>
        </a>
@@ -129,7 +129,7 @@ function Pricing() {
    <h2 className="Pricing__h2__price">
  / $200 /
   </h2>
-  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+  <a href='https://calendly.com/browsjungle/4-5hours'>     
    <button id='Pricing__row1__button'>
        Book Now</button>
        </a>
@@ -147,7 +147,7 @@ function Pricing() {
    <h2 className="Pricing__h2__price">
  / $250 /
   </h2>
-  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+  <a href='https://calendly.com/browsjungle/4-5hours'>     
    <button id='Pricing__row1__button'>
        Book Now</button>
        </a>
