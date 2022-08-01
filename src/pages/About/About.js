@@ -2,6 +2,7 @@ import React from 'react'
 import './About.css'
 import { Row, Col } from 'reactstrap';
 import me from '../../Assets/Images/best_pmu_specialist.png'
+import DosLagos from '../../Assets/Images/Dos-Lagos.png'
 
 
 
@@ -18,11 +19,11 @@ const About = () => {
           DEAR CLIENTS AND FRIENDS
           </h1>
           <p className="About__p">
-          My name is Erika, and I am excited to welcome you to Brows Jungle, LLC! I honestly believe that brows can make or break any look, 
-          and my passion for what I do, combined with the desire to be the best, distinguishes me from other artists. I am a perfectionist by nature, 
+          My name is Erika, and I am excited to welcome you to Brows Jungle, LLC! I am a perfectionist by nature, 
           and extremely detail oriented, which as a PMU is a huge advantage. I use innovative techniques and superior products to enhance and highlight my client’s natural beauty, 
           for exceptionally gorgeous results. If you are looking for a company that makes your brows and lips satisfaction their top priority, 
-          Brows Jungle, LLC is the place for you! PMU beauty salon located in Corona, California! I am looking forward to seeing you soon!
+          Brows Jungle, LLC is the place for you! PMU beauty salon located in Corona, California! I am looking forward to seeing you soon! XOXO 
+          <img id = "About__ME__IMG" src={DosLagos} alt="Dos Lagos"/>
           </p>
        
           <Col id="About__R2__col1" xl="6">
@@ -68,6 +69,10 @@ const About = () => {
                 Lip Blush 1:1 Training With “LA Microbrow”</h3>
               <p id="About__p__1"> 
               10.27.2021</p>
+              <h3 className="About__h3">
+                Color Theory Masterclass With “BROW DADDY”</h3>
+              <p id="About__p__1"> 
+              07.29.2022</p>
               <a href="facetime:17472247451‬" target='_blank'>     
               <button id='About__row1__button' href='/'>
               Call For Consultation</button>

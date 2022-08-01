@@ -13,8 +13,8 @@ import NeedToKnow from '../../Components/NeedToKnow/NeedToKnow';
       return (
       <div className="Home">
       <div className="Home__Banner">
-      <h1 className = "Home__h1"> PERMANENT MAKEUP <br/> In Dos Lagos <br/>
-            <span className="emphasis-1">Let's Enhance And Highlight Your Natural Beauty!</span> 
+      <h1 className = "Home__h1"> PERMANENT MAKEUP <br/> At Dos Lagos <br/>
+            {/* <span className="emphasis-1">Let's Enhance And Highlight Your Natural Beauty!</span>  */}
           </h1>
         </div>
         <ServicesComponent />

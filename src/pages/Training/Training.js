@@ -22,7 +22,7 @@ const Training = () => {
           sanitation/hygiene, licensing, marketing, brow mapping/shaping, color theory, powder technique, skin anatomy, needles, photography, pictures/video editing and so much more. 
           At the end of the trainings, you will receive a shading starter kit with the basic supplies. The shading starter kit is worth $600.<br/>
           Starting your own business might be scary, I know as  I went through all of this and I’m here to help you. 
-          I will share my knowledge, experience, and so much more that I was missing during my training. 
+          I will share my knowledge, experience, and so much more.
           There is a saying that “Practice is the key” and I want to add that a good foundation at the beginning and knowledge of where to start is the key to success. <br/>
           <br/>
           $600 a non-refundable booking fee is required to reserve your spot. The remaining payment is  due in Cash or Zelle a day before the training starts. 

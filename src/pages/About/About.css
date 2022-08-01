@@ -18,6 +18,7 @@
 	margin: 10px 60px;
 	font-size: 20px;
 	letter-spacing: .1em;
+	line-height: 2rem;
 	font-family: 'Lato', sans-serif;
 	text-align: left;
 }
@@ -79,6 +80,15 @@
 #mobile_fix{
 	display: none;
 }
+
+#About__ME__IMG{
+	display: inline;
+	align-items: center;
+	margin-bottom: 1%;
+	flex-direction: row;
+	max-width: 4%;
+}
+
 @media (max-width: 500px){
 	.About__row{
 		margin: 10% 0%;
