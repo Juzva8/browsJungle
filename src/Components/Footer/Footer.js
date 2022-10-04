@@ -27,7 +27,7 @@ const Footer = () => (
               <div className="col-md-6 item text">
                   <h3>Brows Jungle</h3>
                   <p>
-                  Microblading, Powder Brows, Lip Blushing in Corona. Three times certified, fully licensed and insured. I use only superior products to enhance and highlight my client’s natural beauty.
+                  Microblading, Powder Brows, Lip Blushing in Corona. Certified, fully licensed and insured. I use only superior products to enhance and highlight my client’s natural beauty.
                   </p>
               </div>
               <div className="col item social">
