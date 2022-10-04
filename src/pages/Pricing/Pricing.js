@@ -28,7 +28,7 @@ function Pricing() {
          </b>
          </p>
           <h2 className="Pricing__h2__price">
-        / $425 /
+        / $450 /
          </h2>
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
@@ -44,7 +44,7 @@ function Pricing() {
          </b>
          </p>
           <h2 className="Pricing__h2__price">
-        / $425 /
+        / $450 /
          </h2>
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
@@ -61,7 +61,7 @@ function Pricing() {
          </b>
          </p>
           <h2 className="Pricing__h2__price">
-        / $425 /
+        / $450 /
          </h2>
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
@@ -79,7 +79,7 @@ function Pricing() {
          </b>
          </p>
           <h2 className="Pricing__h2__price">
-        / $425 /
+        / $450 /
          </h2>
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
@@ -109,7 +109,7 @@ function Pricing() {
   </b>
   </p>
    <h2 className="Pricing__h2__price">
- / $120 /
+ / $150 /
   </h2>
   <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
    <button id='Pricing__row1__button'>
@@ -122,26 +122,8 @@ function Pricing() {
  Annual Touch Up
   </h2>
   <p className="Pricing__p__1"><b>
-  6-12 months touch up<br/>
-  For existing clients only
-  </b>
-  </p>
-   <h2 className="Pricing__h2__price">
- / $200 /
-  </h2>
-  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
-   <button id='Pricing__row1__button'>
-       Book Now</button>
-       </a>
-  </Col>
-
-  <Col id="Pricing__R1__col1" xl="3">
-  <h2 className="Pricing__h2">
- Biannual Touch Up
-  </h2>
-  <p className="Pricing__p__1"><b>
-  13-19 months touch up<br/>
-  Anything past 19 months will require a consultation to determine whether a touch-up or a new set would be required. 
+  6-19 months touch up<br/>
+  For existing clients only. Anything past 19 months will require a consultation to determine whether a touch-up or a new set would be required. 
   </b>
   </p>
    <h2 className="Pricing__h2__price">
@@ -152,7 +134,6 @@ function Pricing() {
        Book Now</button>
        </a>
   </Col>
-
 </Row>
 <Row className="Pricing__row" >
        <h2 className="Pricing__h2">
