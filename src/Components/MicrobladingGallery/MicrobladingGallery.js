@@ -21,7 +21,24 @@ import tattoo from '../../Assets/Gallery/tattoo.png'
 import technique from '../../Assets/Gallery/technique.png'
 
 
-const images = [ lipBlush, pmu, Ombré, Powder_Brow, Touch_Up, Combination_Brow, Microblading, BROW_DADDY, pmuangel, Corona, Riverside, brows, eyebrow, Permanent, Semi, tattoo, technique ]
+import Temescal_Valley from '../../Assets/Gallery/1.png'
+import Dos_Lagos from '../../Assets/Gallery/2.png'
+import Coronita from '../../Assets/Gallery/3.png'
+import Woodcrest from '../../Assets/Gallery/4.png'
+import Perris from '../../Assets/Gallery/5.png'
+import Socal from '../../Assets/Gallery/6.png'
+import California from '../../Assets/Gallery/7.png'
+import Girl from '../../Assets/Gallery/8.png'
+import Woman from '../../Assets/Gallery/9.png'
+import Lady from '../../Assets/Gallery/10.png' 
+import Best from '../../Assets/Gallery/11.png'
+import Natural from '../../Assets/Gallery/12.png'
+
+
+const images = [ lipBlush, pmu, Ombré, Powder_Brow, Touch_Up, Combination_Brow, 
+  Microblading, BROW_DADDY, pmuangel, Corona, Riverside, brows, eyebrow, Permanent, 
+  Semi, tattoo, technique, Temescal_Valley, Dos_Lagos, Coronita, Woodcrest, Perris, 
+  Socal, California, Girl, Woman, Lady, Best, Natural ]
 
 function MicrobladingGallery() {
   const NextArrow = ({ onClick }) => {
