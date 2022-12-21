@@ -5,6 +5,12 @@ import './Before-Booking.css'
 import me from '../../Assets/Images/brows_1.png'
 
 
+
+const myComponentStyle = {
+  color: '#619c1c',
+}
+
+
 const BeforeBooking = () => {
   return (
     <div className="BeforeBooking">
@@ -21,8 +27,8 @@ const BeforeBooking = () => {
           Please send it using Zelle at browsjungle@gmail.Com If payment is not received within 1-hour booking will be canceled.
           <br />
           <br />
-          Approval is required prior to booking. All clients must provide the following information prior to booking their service:
-          Full name Clear photo of the whole face (no filters) ‍Please text the required info at (747) 224-7451‬ or DM on IG: @browsjungle
+          If you had PMU done previously, approval is required prior to booking. I confirm that I've sent my full name and a clear photo of the whole face at 
+          <br></br><a style={myComponentStyle} href='tel:747-224-7451‬'> (747) 224-7451‬ </a>or DM on IG: @browsjungle
           <br />
           <br />
           <span id="emphasis-1"><b>Read Consent Forms Bellow:</b></span>           
