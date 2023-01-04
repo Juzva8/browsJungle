@@ -3,6 +3,10 @@ import './Pricing.css'
 import { Row, Col } from 'reactstrap';
 import ServicesComponent from '../../Components/ServicesComponent/ServicesComponent'
 
+const ValentineSpecial = {
+  color: '#D32028',
+}
+
 function Pricing() {
   return (
     <div className="Pricing">
@@ -23,12 +27,13 @@ function Pricing() {
        <h2 className="Pricing__h2">
         / Lip Blush /
          </h2>
-         <p className="Pricing__p"><b>
+         <p className="Pricing__p">
          Lip Blush tattoo enhances the natural shape of your lips, giving them that boost of vitality and even coloring. Lip blush tattoos are designed to last 2 to 3 years.
-         </b>
+   
          </p>
           <h2 className="Pricing__h2__price">
-        / $450 /
+          / $450 /
+         </h2>
          </h2>
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
@@ -39,13 +44,14 @@ function Pricing() {
          <h2 className="Pricing__h2">
         / Powder Brows /
          </h2>
-         <p className="Pricing__p"><b>
+         <p className="Pricing__p">
          Powder brows can be done as light as a brow tint or as dark as glam. Recommended for those who want a completely "filled in" brow! Best for ALL skin types.
-         </b>
+   
          </p>
           <h2 className="Pricing__h2__price">
         / $450 /
          </h2>
+         <br></br> <br></br> 
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
@@ -55,14 +61,15 @@ function Pricing() {
          <h2 className="Pricing__h2">
         / Microblading /
          </h2>
-         <p className="Pricing__p"><b>
+         <p className="Pricing__p">
          Microblading is a permanent procedure that mimics the same size of an eyebrow hair stroke through small incisions made with a microblade.
 
-         </b>
+   
          </p>
           <h2 className="Pricing__h2__price">
         / $450 /
          </h2>
+         <br></br> <br></br> 
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
@@ -73,14 +80,15 @@ function Pricing() {
          <h2 className="Pricing__h2">
         / Combo Brows /
          </h2>
-         <p className="Pricing__p"><b>
+         <p className="Pricing__p">
          This technique offers the best of both powdered and hair stroke effects combined together to achieve a fluffy, textured, yet defined brow.
 
-         </b>
+   
          </p>
           <h2 className="Pricing__h2__price">
         / $450 /
          </h2>
+         <br></br> <br></br> 
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
               Book Now</button>
@@ -89,8 +97,8 @@ function Pricing() {
 
        </Row> */}
 
-       {/* TEST */}
-          <Row className="Pricing__row" >
+  {/* TEST */}
+  <Row className="Pricing__row" >
        <h1 className="Pricing__h1">
        PMU INITIAL SERVICE PRICE
          </h1>
@@ -106,12 +114,15 @@ function Pricing() {
        <h2 className="Pricing__h2">
         / Lip Blush /
          </h2>
-         <p className="Pricing__p"><b>
+         <p className="Pricing__p">
          Lip Blush tattoo enhances the natural shape of your lips, giving them that boost of vitality and even coloring. Lip blush tattoos are designed to last 2 to 3 years.
-         </b>
+   
          </p>
-          <h2 className="Pricing__h2__price">
-        / $450 /
+         <h2 className="Pricing__h2__price">
+        <s> / $450 / </s>
+         </h2>
+         <h2 className="Pricing__h2__price" style={ValentineSpecial}>
+          Valentine Special<br></br> / $300 / 
          </h2>
          <a href="facetime:17472247451‬" >     
           <button id='Pricing__row1__button'>
@@ -122,13 +133,14 @@ function Pricing() {
          <h2 className="Pricing__h2">
         / Powder Brows /
          </h2>
-         <p className="Pricing__p"><b>
+         <p className="Pricing__p">
          Powder brows can be done as light as a brow tint or as dark as glam. Recommended for those who want a completely "filled in" brow! Best for ALL skin types.
-         </b>
+   
          </p>
           <h2 className="Pricing__h2__price">
         / $450 /
          </h2>
+         <br></br> <br></br> 
          <a href="facetime:17472247451‬" >     
           <button id='Pricing__row1__button'>
           Call To Book</button>
@@ -138,14 +150,15 @@ function Pricing() {
          <h2 className="Pricing__h2">
         / Microblading /
          </h2>
-         <p className="Pricing__p"><b>
+         <p className="Pricing__p">
          Microblading is a permanent procedure that mimics the same size of an eyebrow hair stroke through small incisions made with a microblade.
 
-         </b>
+
          </p>
           <h2 className="Pricing__h2__price">
         / $450 /
          </h2>
+         <br></br> <br></br> 
          <a href="facetime:17472247451‬" >     
           <button id='Pricing__row1__button'>
           Call To Book</button>
@@ -156,14 +169,15 @@ function Pricing() {
          <h2 className="Pricing__h2">
         / Combo Brows /
          </h2>
-         <p className="Pricing__p"><b>
+         <p className="Pricing__p">
          This technique offers the best of both powdered and hair stroke effects combined together to achieve a fluffy, textured, yet defined brow.
 
-         </b>
+   
          </p>
           <h2 className="Pricing__h2__price">
         / $450 /
          </h2>
+         <br></br> <br></br> 
          <a href="facetime:17472247451‬" >     
           <button id='Pricing__row1__button'>
           Call To Book</button>
@@ -173,7 +187,6 @@ function Pricing() {
        </Row>
 
 {/* TEST */}
-
        <Row className="Pricing__row" >
        <h1 className="Pricing__h1__4">
        TOUCH UPS
@@ -189,15 +202,15 @@ function Pricing() {
 <h2 className="Pricing__h2">
  Touch Up
   </h2>
-  <p className="Pricing__p__1"><b>
+  <p className="Pricing__p__1">
   4 weeks - 3 months touch up<br/>
   For existing clients only
-  </b>
+  
   </p>
    <h2 className="Pricing__h2__price">
  / $150 /
   </h2>
-  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank' rel='noreferrer'>     
    <button id='Pricing__row1__button'>
        Book Now</button>
        </a>
@@ -207,15 +220,15 @@ function Pricing() {
   <h2 className="Pricing__h2">
  Annual Touch Up
   </h2>
-  <p className="Pricing__p__1"><b>
+  <p className="Pricing__p__1">
   6-19 months touch up<br/>
   For existing clients only. Anything past 19 months will require a consultation to determine whether a touch-up or a new set would be required. 
-  </b>
+  
   </p>
    <h2 className="Pricing__h2__price">
  / $250 /
   </h2>
-  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+  <a href='https://calendly.com/browsjungle/4-5hours' target='_blank' rel='noreferrer'>     
    <button id='Pricing__row1__button'>
        Book Now</button>
        </a>
