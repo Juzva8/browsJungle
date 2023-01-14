@@ -11,7 +11,7 @@ function Pricing() {
   return (
     <div className="Pricing">
        <ServicesComponent />
-       {/* <Row className="Pricing__row" >
+     <Row className="Pricing__row" >
        <h1 className="Pricing__h1">
        PMU INITIAL SERVICE PRICE
          </h1>
@@ -32,8 +32,10 @@ function Pricing() {
    
          </p>
           <h2 className="Pricing__h2__price">
-          / $450 /
+          <s>/ $450 /</s>
          </h2>
+     <h2 className="Pricing__h2__price" style={ValentineSpecial}>
+          Valentine Special<br></br> / $300 / 
          </h2>
          <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
@@ -46,104 +48,17 @@ function Pricing() {
          </h2>
          <p className="Pricing__p">
          Powder brows can be done as light as a brow tint or as dark as glam. Recommended for those who want a completely "filled in" brow! Best for ALL skin types.
-   
-         </p>
-          <h2 className="Pricing__h2__price">
-        / $450 /
-         </h2>
-         <br></br> <br></br> 
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
-          <button id='Pricing__row1__button'>
-              Book Now</button>
-              </a>
-         </Col>
-         <Col id="Pricing__R1__col1" xl="3">
-         <h2 className="Pricing__h2">
-        / Microblading /
-         </h2>
-         <p className="Pricing__p">
-         Microblading is a permanent procedure that mimics the same size of an eyebrow hair stroke through small incisions made with a microblade.
-
-   
-         </p>
-          <h2 className="Pricing__h2__price">
-        / $450 /
-         </h2>
-         <br></br> <br></br> 
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
-          <button id='Pricing__row1__button'>
-              Book Now</button>
-              </a>
-         </Col>
-
-         <Col id="Pricing__R1__col1" xl="3">
-         <h2 className="Pricing__h2">
-        / Combo Brows /
-         </h2>
-         <p className="Pricing__p">
-         This technique offers the best of both powdered and hair stroke effects combined together to achieve a fluffy, textured, yet defined brow.
-
-   
-         </p>
-          <h2 className="Pricing__h2__price">
-        / $450 /
-         </h2>
-         <br></br> <br></br> 
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
-          <button id='Pricing__row1__button'>
-              Book Now</button>
-              </a>
-         </Col>
-
-       </Row> */}
-
-  {/* TEST */}
-  <Row className="Pricing__row" >
-       <h1 className="Pricing__h1">
-       PMU INITIAL SERVICE PRICE
-         </h1>
-       </Row>
-       <Row className="Pricing__row" >
-       <h2 id="Pricing__anchor__tag"  className="Pricing__h2__mob">
-       AN IN-DEPTH CONSULTATION IS PROVIDED PRIOR TO BEGINNING THE PROCEDURE.
-         </h2>
-       </Row>
-       <Row className="Pricing__row__3" >
-
-       <Col id="Pricing__R1__col1" xl="3">
-       <h2 className="Pricing__h2">
-        / Lip Blush /
-         </h2>
-         <p className="Pricing__p">
-         Lip Blush tattoo enhances the natural shape of your lips, giving them that boost of vitality and even coloring. Lip blush tattoos are designed to last 2 to 3 years.
    
          </p>
          <h2 className="Pricing__h2__price">
-        <s> / $450 / </s>
+          <s>/ $450 /</s>
          </h2>
-         <h2 className="Pricing__h2__price" style={ValentineSpecial}>
+     <h2 className="Pricing__h2__price" style={ValentineSpecial}>
           Valentine Special<br></br> / $300 / 
          </h2>
-         <a href="facetime:17472247451‬" >     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
-              Call To Book</button>
-              </a>
-         </Col>
-         <Col id="Pricing__R1__col1" xl="3">
-         <h2 className="Pricing__h2">
-        / Powder Brows /
-         </h2>
-         <p className="Pricing__p">
-         Powder brows can be done as light as a brow tint or as dark as glam. Recommended for those who want a completely "filled in" brow! Best for ALL skin types.
-   
-         </p>
-          <h2 className="Pricing__h2__price">
-        / $450 /
-         </h2>
-         <br></br> <br></br> 
-         <a href="facetime:17472247451‬" >     
-          <button id='Pricing__row1__button'>
-          Call To Book</button>
+              Book Now</button>
               </a>
          </Col>
          <Col id="Pricing__R1__col1" xl="3">
@@ -153,15 +68,17 @@ function Pricing() {
          <p className="Pricing__p">
          Microblading is a permanent procedure that mimics the same size of an eyebrow hair stroke through small incisions made with a microblade.
 
-
+   
          </p>
-          <h2 className="Pricing__h2__price">
-        / $450 /
+         <h2 className="Pricing__h2__price">
+          <s>/ $450 /</s>
          </h2>
-         <br></br> <br></br> 
-         <a href="facetime:17472247451‬" >     
+     <h2 className="Pricing__h2__price" style={ValentineSpecial}>
+          Valentine Special<br></br> / $300 / 
+         </h2>
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
-          Call To Book</button>
+              Book Now</button>
               </a>
          </Col>
 
@@ -174,19 +91,22 @@ function Pricing() {
 
    
          </p>
-          <h2 className="Pricing__h2__price">
-        / $450 /
+         <h2 className="Pricing__h2__price">
+          <s>/ $450 /</s>
          </h2>
-         <br></br> <br></br> 
-         <a href="facetime:17472247451‬" >     
+     <h2 className="Pricing__h2__price" style={ValentineSpecial}>
+          Valentine Special<br></br> / $300 / 
+         </h2>
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
           <button id='Pricing__row1__button'>
-          Call To Book</button>
+              Book Now</button>
               </a>
          </Col>
 
-       </Row>
+       </Row> 
 
-{/* TEST */}
+  
+  
        <Row className="Pricing__row" >
        <h1 className="Pricing__h1__4">
        TOUCH UPS
