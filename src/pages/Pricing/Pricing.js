@@ -32,12 +32,9 @@ function Pricing() {
    
          </p>
           <h2 className="Pricing__h2__price">
-          <s>/ $450 /</s>
+          / $450 /
          </h2>
-     <h2 className="Pricing__h2__price" style={ValentineSpecial}>
-          Valentine Special<br></br> / $300 / 
-         </h2>
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank' rel="noreferrer">     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -51,12 +48,9 @@ function Pricing() {
    
          </p>
          <h2 className="Pricing__h2__price">
-          <s>/ $450 /</s>
+          / $450 /
          </h2>
-     <h2 className="Pricing__h2__price" style={ValentineSpecial}>
-          Valentine Special<br></br> / $300 / 
-         </h2>
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank' rel="noreferrer">     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -71,12 +65,9 @@ function Pricing() {
    
          </p>
          <h2 className="Pricing__h2__price">
-          <s>/ $450 /</s>
+          / $450 /
          </h2>
-     <h2 className="Pricing__h2__price" style={ValentineSpecial}>
-          Valentine Special<br></br> / $300 / 
-         </h2>
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank' rel="noreferrer">     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
@@ -92,12 +83,9 @@ function Pricing() {
    
          </p>
          <h2 className="Pricing__h2__price">
-          <s>/ $450 /</s>
+          / $450 /
          </h2>
-     <h2 className="Pricing__h2__price" style={ValentineSpecial}>
-          Valentine Special<br></br> / $300 / 
-         </h2>
-         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank'>     
+         <a href='https://calendly.com/browsjungle/4-5hours' target='_blank' rel="noreferrer">     
           <button id='Pricing__row1__button'>
               Book Now</button>
               </a>
