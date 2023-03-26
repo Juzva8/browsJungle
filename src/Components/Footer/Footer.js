@@ -29,6 +29,9 @@ const Footer = () => (
                   <p>
                   Microblading, Powder Brows, Lip Blushing in Corona. Certified, fully licensed and insured. I use only superior products to enhance and highlight my client’s natural beauty.
                   </p>
+                  <p><br></br>
+                  We reserve the right to refuse service to anyone.
+                  </p>
               </div>
               <div className="col item social">
                 <a href="https://www.facebook.com/browsjungles" target="_blank">  <i className="fab fa-facebook-f icon"></i></a>
