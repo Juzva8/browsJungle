@@ -42,7 +42,7 @@ const Footer = () => (
             
                 </div>
           </div>
-          <p className="copyright">Brows Jungle LLC © 2022</p>
+          <p className="copyright">Brows Jungle LLC © 2023</p>
       </div>
   </footer>
 </div>
